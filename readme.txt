@@ -50,7 +50,7 @@ Favorites, preferences and metadata snapshots remain site-specific. The overview
 
 == Changelog ==
 
-= 1.0.0 · 2026-10-30 =
+= 1.0.0 =
 
 - New: Quick access to WPCodeBox 2 snippets through favorites, status lists, folders and cross-folder search.
 - New: Fullscreen workspace, editor focus, configurable keyboard shortcuts and compact shortcut help.

@@ -50,7 +50,7 @@ Favoriten, Anzeigeoptionen und Metadatenstände bleiben je Website getrennt. Die
 
 == Changelog ==
 
-= 1.0.0 · 2026-10-30 =
+= 1.0.0 =
 
 - Neu: Schnellzugriff auf WPCodeBox-2-Snippets über Favoriten, Statuslisten, Ordner und ordnerübergreifende Suche.
 - Neu: Vollbild-Arbeitsbereich, Editor-Fokus, anpassbare Tastenkürzel und kompakte Tastenkürzelhilfe.
