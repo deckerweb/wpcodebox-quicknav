@@ -1,0 +1,77 @@
+#wcbqn-workspace{display:flex;align-items:center;justify-content:flex-end;flex-wrap:wrap;gap:6px;box-sizing:border-box;padding:5px 10px;margin:0 10px;color:var(--ide-text-primary,#1d2327);background:var(--ide-bg-primary,#f0f0f1);font:12px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+#wcbqn-workspace a{color:var(--ide-accent-blue,#135e96)}
+#wcbqn-workspace button{cursor:pointer;min-height:28px;padding:3px 9px;border:1px solid var(--ide-border-primary,#8c8f94);border-radius:4px;background:var(--ide-bg-secondary,#fff);color:var(--ide-text-primary,#1d2327);font:inherit}
+#wcbqn-workspace button[aria-pressed=true]{border-color:var(--ide-accent-blue,#135e96);box-shadow:inset 0 0 0 1px var(--ide-accent-blue,#135e96)}
+#wcbqn-workspace [hidden]{display:none!important}#wcbqn-workspace :focus-visible{outline:2px solid var(--ide-accent-blue,#135e96);outline-offset:2px}
+body.wcbqn-fullscreen #adminmenumain,body.wcbqn-fullscreen #wpadminbar,body.wcbqn-fullscreen #wpfooter{display:none!important}
+html:has(body.wcbqn-fullscreen){margin-top:0!important}
+body.wcbqn-fullscreen #wpcontent{position:fixed;inset:0;margin:0!important;padding:0!important;z-index:9990;overflow:auto;background:var(--ide-bg-primary,#f0f0f1)}
+body.wcbqn-fullscreen #wpbody-content{padding-bottom:0;float:none;min-height:100vh}
+body.wcbqn-fullscreen #wcbqn-workspace{position:sticky;top:0;z-index:100;min-height:38px;margin:0;border-bottom:1px solid var(--ide-border-primary,#c3c4c7)}
+body.wcbqn-focus #wcbqn-search,body.wcbqn-focus #root .list-container,body.wcbqn-focus #root .edit-snippet-form-parent{display:none!important}
+body.wcbqn-focus #root .edit-snippet-wrap,body.wcbqn-focus #root .editor-wrap{width:100%!important;max-width:none!important;flex:1 1 auto!important}
+@media(max-width:600px){#wcbqn-workspace{justify-content:flex-start}#wcbqn-workspace a{flex-basis:100%}}
+
+#wcbqn-workspace .wcbqn-editor-context{display:flex;align-items:baseline;gap:8px;flex:1 1 160px;min-width:0}#wcbqn-workspace .wcbqn-editor-context strong{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:40vw}#wcbqn-workspace .wcbqn-editor-context span{opacity:.85;font-size:11px}#wcbqn-workspace .wcbqn-editor-star{font-size:21px;line-height:1;padding:0 6px}#wcbqn-workspace .wcbqn-editor-star:disabled{opacity:.5;cursor:default}
+
+#wcbqn-workspace .wcbqn-editor-star[aria-pressed=true]{color:var(--ide-accent-yellow,#dba617)}
+
+#wcbqn-workspace .wcbqn-help{display:inline-flex;align-items:center;min-height:28px;box-sizing:border-box;padding:3px 9px;border:1px solid var(--ide-border-primary,#8c8f94);border-radius:4px;background:var(--ide-bg-secondary,#fff);color:var(--ide-text-primary,#1d2327);text-decoration:none}
+#wcbqn-shortcut-dialog[hidden],#wcbqn-shortcut-dialog:not([open]){display:none!important}
+#wcbqn-shortcut-dialog{position:fixed;inset:0;margin:auto;box-sizing:border-box;width:min(600px,calc(100vw - 32px));max-width:600px;max-height:calc(100dvh - 40px);padding:0;border:1px solid var(--ide-border-primary,#8c8f94);border-radius:8px;background:var(--ide-bg-primary,#fff);color:var(--ide-text-primary,#1d2327);font:13px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;box-shadow:0 12px 50px #0005}
+#wcbqn-shortcut-dialog::backdrop{background:#0008}
+#wcbqn-shortcut-dialog>header{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 16px;border-bottom:1px solid var(--ide-border-primary,#c3c4c7)}
+#wcbqn-shortcut-dialog h2{font-size:17px;margin:0;color:inherit;line-height:1.4}#wcbqn-shortcut-dialog h3{font-size:13px;margin:0 0 6px;color:inherit}
+#wcbqn-shortcut-dialog form{margin:0}#wcbqn-shortcut-dialog button{font:inherit;cursor:pointer;border:1px solid var(--ide-border-primary,#8c8f94);border-radius:4px;padding:4px 9px;background:var(--ide-bg-secondary,#f0f0f1);color:inherit}
+#wcbqn-shortcut-dialog .wcbqn-shortcut-body{padding:12px 16px;overflow:auto;max-height:calc(100dvh - 110px)}
+#wcbqn-shortcut-dialog section+section{margin-top:14px}#wcbqn-shortcut-dialog dl{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 16px;margin:0}#wcbqn-shortcut-dialog dt,#wcbqn-shortcut-dialog dd{margin:0;align-self:center}#wcbqn-shortcut-dialog dd{text-align:right}
+#wcbqn-shortcut-dialog kbd{display:inline-block;padding:1px 5px;border:1px solid var(--ide-border-primary,#c3c4c7);border-radius:3px;background:var(--ide-bg-secondary,#f0f0f1);color:inherit;font:11px/1.5 ui-monospace,monospace}
+#wcbqn-shortcut-dialog a{color:var(--ide-accent-blue,#135e96)}#wcbqn-shortcut-dialog :focus-visible{outline:2px solid var(--ide-accent-blue,#2271b1);outline-offset:2px}
+#wcbqn-shortcut-dialog .wcbqn-shortcut-note{margin:14px 0 8px;font-size:12px}#wcbqn-shortcut-dialog .wcbqn-shortcut-links{display:flex;flex-wrap:wrap;gap:6px 16px;margin:8px 0 0;font-size:12px}
+@media(max-width:480px){#wcbqn-shortcut-dialog dl{grid-template-columns:1fr;gap:2px}#wcbqn-shortcut-dialog dd{text-align:left;margin-bottom:6px}}
+
+#wcbqn-workspace .wcbqn-link-fallback{order:10;flex:1 1 100%;box-sizing:border-box;min-width:0;max-width:100%;padding:5px 8px;color:var(--ide-text-primary,#1d2327);background:var(--ide-bg-secondary,#fff);border:1px solid var(--ide-border-primary,#8c8f94);font:inherit}
+#wcbqn-shortcut-dialog dd{display:flex;flex-wrap:wrap;align-items:center;justify-content:flex-end;gap:5px 8px}#wcbqn-shortcut-dialog .wcbqn-shortcut-action{font-size:11px;padding:2px 6px;white-space:nowrap}@media(max-width:480px){#wcbqn-shortcut-dialog dd{justify-content:flex-start}}
+
+/* Native settings need a bounded flex column: fields scroll, actions stay reachable. */
+#root .settings-form.wcbqn-settings-panel{box-sizing:border-box;height:calc(100dvh - var(--wcbqn-settings-top,150px) - 12px)!important;max-height:calc(100dvh - var(--wcbqn-settings-top,150px) - 12px);min-height:120px;align-self:flex-start;overflow:hidden}
+#root .settings-form.wcbqn-settings-panel>header,#root .settings-form.wcbqn-settings-panel>footer{flex:0 0 auto}
+#root .settings-form.wcbqn-settings-panel>div{flex:1 1 auto!important;min-height:0;overflow-y:auto;overscroll-behavior:contain}
+
+#wcbqn-search.wcbqn-layout-budget #wcbqn-search-results{max-height:var(--wcbqn-results-height,260px)}
+
+#root .settings-wrap:has(>.wcbqn-settings-panel){position:sticky;left:0;z-index:2;align-self:flex-start}
+/* One measured viewport budget for all native panels, including Monaco and AI. */
+body.wcbqn-editor-layout #wpbody-content{padding-bottom:0;float:none}
+body.wcbqn-editor-layout #wpfooter{display:none}
+body.wcbqn-editor-layout #root{height:var(--wcbqn-editor-height);min-height:0;overflow-x:auto;overflow-y:hidden}
+body.wcbqn-editor-layout #root>.App,body.wcbqn-editor-layout #root .snippet-list-wrap{height:100%;min-height:0}
+body.wcbqn-editor-layout #root .snippet-list-wrap{min-width:1100px;margin-top:0;overflow:hidden}
+body.wcbqn-editor-layout #root .snippet-container,body.wcbqn-editor-layout #root .edit-snippet-wrap,body.wcbqn-editor-layout #root .editor-wrap{height:100%;min-height:0;min-width:0}
+body.wcbqn-editor-layout #root .list-container{height:100%;min-height:0}
+body.wcbqn-editor-layout #root .list-header-container{flex:0 0 auto}
+body.wcbqn-editor-layout #root .snippet-list-container-wrap{flex:1 1 auto;min-height:0;padding-bottom:42px;box-sizing:border-box}
+body.wcbqn-editor-layout #root .snippet-list-container-wrap-inner{height:100%!important;max-height:100%;overflow:auto}
+body.wcbqn-editor-layout #root .edit-snippet-form-parent{height:100%;min-height:0;flex-shrink:0}
+body.wcbqn-editor-layout #root .edit-snippet-form{height:100%;min-height:0;box-sizing:border-box;overflow-y:auto}
+body.wcbqn-editor-layout #root .edit-snippet-form>*{flex-shrink:0}
+body.wcbqn-editor-layout #root .edit-snippet-form>div:last-child{position:sticky;bottom:0;background:var(--ide-bg-secondary,#fff);z-index:2}
+body.wcbqn-editor-layout #root .settings-wrap{height:100%;min-height:0}
+body.wcbqn-editor-layout #root .editor-wrap>div{height:100%;min-height:0;display:flex;flex-direction:column}
+body.wcbqn-editor-layout #root .editor-wrap .actions{flex:0 0 auto}
+body.wcbqn-editor-layout #root .editor-container{min-height:0;flex:1 1 auto}
+body.wcbqn-editor-layout #root .editor-container>div:first-child{min-width:0!important}
+body.wcbqn-editor-layout #root .editor-container>div:first-child>div:first-child>section{height:100%!important;min-height:0}
+body.wcbqn-editor-layout #root .editor-container>div:has(.wpcb-ai-assistant){min-width:0!important}
+body.wcbqn-editor-layout #root .wpcb-ai-assistant{height:100%!important;min-height:0;box-sizing:border-box}
+body.wcbqn-editor-layout #root #acs-editor{height:100%!important;min-height:0}
+
+
+body.wcbqn-editor-layout #root .wpcb-ai-assistant [data-slot="input-group-addon"][data-align="block-end"]{flex-wrap:wrap}
+body.wcbqn-editor-layout #root .wpcb-ai-assistant [data-slot="input-group-addon"]>div{flex-wrap:wrap;min-width:0;max-width:100%}
+
+body.wcbqn-editor-layout.wcbqn-focus #root .snippet-list-wrap{min-width:0}
+body.wcbqn-editor-layout #root .wpcb-ai-assistant{overflow-y:auto;overflow-x:hidden}
+body.wcbqn-editor-layout #root .wpcb-ai-assistant [data-slot="dropdown-menu-trigger"]{max-width:100%;min-width:0}
+
+body.wcbqn-editor-layout #root>.App{margin-top:0}

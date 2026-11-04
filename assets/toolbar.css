@@ -1,0 +1,24 @@
+#wpadminbar .wcbqn-scripts-list .wcbqn-type,#wpadminbar .wcbqn-scripts-list .wcbqn-muted{font-size:11px;color:#b8c2cc}#wpadminbar .wcbqn-scripts-list .wcbqn-blocked{font-size:11px;color:#ffd181}#wpadminbar .wcbqn-scripts-list .ab-sub-wrapper{max-width:min(600px,95vw)}#wpadminbar .wcbqn-scripts-list .ab-item{overflow:hidden;text-overflow:ellipsis}#wpadminbar .wcbqn-scripts-list .ab-item:focus{outline:2px solid currentColor;outline-offset:-2px}
+
+#wpadminbar #wp-admin-bar-ddw-wpcodebox-quicknav > .ab-item {display:flex;align-items:center;gap:0;white-space:nowrap}
+#wpadminbar #wp-admin-bar-ddw-wpcodebox-quicknav > .ab-item > .ab-icon {float:none;position:static;display:flex;align-items:center;justify-content:center;width:20px;height:20px;line-height:1;padding:0;margin:0;flex:0 0 20px}
+#wpadminbar #wp-admin-bar-ddw-wpcodebox-quicknav > .ab-item > .ab-icon svg {display:block;width:18px;height:18px;margin:0;vertical-align:initial}
+#wpadminbar #wp-admin-bar-ddw-wpcodebox-quicknav > .ab-item > .ab-label {line-height:inherit}
+
+#wpadminbar #wp-admin-bar-ddw-wpcodebox-quicknav .wcbqn-menu-icon{display:inline-flex;width:18px;height:18px;align-items:center;justify-content:center;vertical-align:-4px;margin-inline-end:6px;line-height:1}
+#wpadminbar #wp-admin-bar-ddw-wpcodebox-quicknav .wcbqn-menu-icon svg{display:block;width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2}
+
+/* Opaque label surfaces keep contrast independent of the selected admin scheme. */
+#wpadminbar .wcbqn-scripts-list .wcbqn-snippet-item>.ab-item{display:flex;align-items:center;gap:4px}
+#wpadminbar .wcbqn-scripts-list .wcbqn-snippet-name{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1 1 auto}
+#wpadminbar .wcbqn-scripts-list .wcbqn-type,#wpadminbar .wcbqn-scripts-list .wcbqn-status{display:inline-block;flex:0 0 auto;box-sizing:border-box;padding:0 4px;border:1px solid;border-radius:3px;font-size:10px;line-height:16px;white-space:nowrap}
+#wpadminbar .wcbqn-scripts-list .wcbqn-type{background:#e6f0ff;color:#183b66;border-color:#6480a2}
+#wpadminbar .wcbqn-scripts-list .wcbqn-status-active{background:#e5f5e9;color:#17552b;border-color:#5c8764}
+#wpadminbar .wcbqn-scripts-list .wcbqn-status-inactive{background:#eceef0;color:#3b4148;border-color:#858d95}
+@media(forced-colors:active){#wpadminbar .wcbqn-scripts-list .wcbqn-type,#wpadminbar .wcbqn-scripts-list .wcbqn-status{border-color:CanvasText}}
+
+#wpadminbar #wp-admin-bar-ddw-wpcodebox-quicknav>.ab-item>.wcbqn-safe-indicator{display:inline-flex;align-items:center;flex:0 0 auto;margin-inline-start:5px;line-height:1}
+#wpadminbar #wp-admin-bar-ddw-wpcodebox-quicknav .wcbqn-safe-indicator .wcbqn-menu-icon{margin:0;width:16px;height:16px}
+#wpadminbar #wp-admin-bar-ddw-wpcodebox-quicknav .wcbqn-safe-active>.ab-item{background:#fff3cd;color:#664d03;font-weight:600}
+#wpadminbar #wp-admin-bar-ddw-wpcodebox-quicknav .wcbqn-safe-active>.ab-item:hover,#wpadminbar #wp-admin-bar-ddw-wpcodebox-quicknav .wcbqn-safe-active>.ab-item:focus{background:#ffe69c;color:#4d3800}
+@media(forced-colors:active){#wpadminbar #wp-admin-bar-ddw-wpcodebox-quicknav .wcbqn-safe-active>.ab-item{background:Canvas;color:CanvasText;outline:1px solid CanvasText}}

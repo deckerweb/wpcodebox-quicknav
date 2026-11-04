@@ -1,0 +1,6 @@
+assets/brand export-ignore
+docs/screenshots export-ignore
+wiki export-ignore
+.github export-ignore
+_config.yml export-ignore
+index.md export-ignore

@@ -1,0 +1,7 @@
+= 1.0.0 · 2026-10-30 =
+
+- Neu: Schnellzugriff auf WPCodeBox-2-Snippets über Favoriten, Statuslisten, Ordner und ordnerübergreifende Suche.
+- Neu: Vollbild-Arbeitsbereich, Editor-Fokus, anpassbare Tastenkürzel und kompakte Tastenkürzelhilfe.
+- Neu: Eigenständige Functionality-Plugin-Übersicht mit verständlichen Einbindungszuständen und gespeicherten Metadaten.
+- Neu: Dauerhafter roter Safe-Mode-Warnstreifen mit Flamme in der Toolbar im Admin und Frontend.
+- Verbessert: An die Fensterhöhe angepasste Editorbereiche, persönliche Beschriftung und optional gemerkte Editoransicht.

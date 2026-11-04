@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: WPCodeBox QuickNav
+description: Your snippets. One click away.
+exclude: [includes, languages, wiki, README.md, README-de.md, readme.txt, readme-de.txt]

@@ -1,0 +1,842 @@
+msgid ""
+msgstr "Project-Id-Version: WPCodeBox QuickNav 1.0.0\nLanguage: de_DE_formal\nContent-Type: text/plain; charset=UTF-8\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%1$d of %2$d entries shown."
+msgstr "%1$d von %2$d Einträgen angezeigt."
+
+msgid "About"
+msgstr "Über"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Active Snippets"
+msgstr "Aktive Snippets"
+
+msgid "Active and inactive refer to saved snippet status. Conditions, run type, Safe Mode and execution location can affect execution. WPCodeBox folders do not disable snippets."
+msgstr "Aktiv und inaktiv beziehen sich auf den gespeicherten Snippet-Status. Bedingungen, Ausführungstyp, abgesicherter Modus und Ausführungsort beeinflussen die Ausführung. WPCodeBox-Ordner deaktivieren keine Snippets."
+
+msgid "Active, blocked by folder"
+msgstr "Aktiv, durch Ordner blockiert"
+
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+msgid "Add to favorites"
+msgstr "Zu Favoriten hinzufügen"
+
+msgid "Admin main menu name"
+msgstr "Name des Admin-Hauptmenüs"
+
+msgid "Adminer: Manage DB"
+msgstr "Adminer: DB verwalten"
+
+msgid "All entries"
+msgstr "Alle Einträge"
+
+msgid "All snippets"
+msgstr "Alle Snippets"
+
+msgid "All statuses"
+msgstr "Alle Statuswerte"
+
+msgid "All types"
+msgstr "Alle Typen"
+
+msgid "Applies to each status list, favorites, and the folder tree. Additional entries remain accessible in WPCodeBox."
+msgstr "Gilt für jede Statusliste, die Favoriten und den Ordnerbaum. Weitere Einträge bleiben über WPCodeBox erreichbar."
+
+msgid "Archive verification"
+msgstr "Archivprüfung"
+
+msgid "Author: David Decker"
+msgstr "Autor: David Decker"
+
+msgid "Automatic copying is unavailable. Select and copy the path below."
+msgstr "Automatisches Kopieren ist nicht verfügbar. Der Pfad darunter lässt sich markieren und kopieren."
+
+msgid "Back to normal view"
+msgstr "Zurück zur normalen Ansicht"
+
+msgid "Buy Me a Coffee"
+msgstr "Kaufe mir einen Kaffee"
+
+msgid "Catalog approval"
+msgstr "Katalogfreigabe"
+
+msgid "Catalog diagnostics require a public catalog provider."
+msgstr "Die Katalogdiagnose benötigt einen öffentlichen Kataloganbieter."
+
+msgid "Changelog"
+msgstr "Änderungsverlauf"
+
+msgid "Checksum verification"
+msgstr "Prüfsummenprüfung"
+
+msgid "Choose different keys for fullscreen and editor focus, or disable one of them."
+msgstr "Für Vollbild und Editor-Fokus unterschiedliche Tasten wählen oder eines der Kürzel abschalten."
+
+msgid "Choose favorites"
+msgstr "Favoriten auswählen"
+
+msgid "Clear search"
+msgstr "Suche zurücksetzen"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Code Snippet"
+msgstr "Code/ Snippet"
+
+msgid "Code Snippets Cloud"
+msgstr "Code Snippets Cloud"
+
+msgid "Codes by Web Squadron"
+msgstr "Codes von Web Squadron"
+
+msgid "Commented out"
+msgstr "Auskommentiert"
+
+msgid "Complete editor shortcut reference"
+msgstr "Vollständige Tastenkürzel-Referenz des Editors"
+
+msgid "Configured inclusion"
+msgstr "Konfigurierte Einbindung"
+
+msgid "Controls Find snippets and Links for your account on this website. Safe Mode, snippet navigation and About remain available."
+msgstr "Steuert „Snippets finden“ und „Links“ für das eigene Konto auf dieser Website. Safe Mode, Snippet-Navigation und „Über“ bleiben verfügbar."
+
+msgid "Copy file path"
+msgstr "Dateipfad kopieren"
+
+msgid "Copy snippet link"
+msgstr "Snippet-Link kopieren"
+
+msgid "Copy the selected link manually."
+msgstr "Den markierten Link bitte manuell kopieren."
+
+msgid "Could not access the update filesystem."
+msgstr "Auf das Dateisystem für das Update konnte nicht zugegriffen werden."
+
+msgid "Could not create the update download file."
+msgstr "Die Datei für den Update-Download konnte nicht erstellt werden."
+
+msgid "Could not prepare the GitHub release package."
+msgstr "Das GitHub-Release-Paket konnte nicht vorbereitet werden."
+
+msgid "Customize QuickNav shortcuts"
+msgstr "QuickNav-Tastenkürzel anpassen"
+
+msgid "Debug Log Manager"
+msgstr "Debug-Log Manager"
+
+msgid "Developer links"
+msgstr "Entwicklerlinks"
+
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+msgid "Disabled by folder"
+msgstr "Durch Ordner deaktiviert"
+
+msgid "Dismiss this notice"
+msgstr "Diesen Hinweis ausblenden"
+
+msgid "Display preferences"
+msgstr "Anzeigeoptionen"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "Editor command palette"
+msgstr "Befehlspalette des Editors"
+
+msgid "Editor focus"
+msgstr "Editor-Fokus"
+
+msgid "Emergency Fixes 🔥"
+msgstr "Notfallkorrekturen 🔥"
+
+msgid "Enabled"
+msgstr "Aktiviert"
+
+msgid "Enabled by the WPCB_SAFE_MODE constant, usually set in wp-config.php. WPCodeBox enables Safe Mode whenever this constant is defined, including when its value is false."
+msgstr "Durch die Konstante WPCB_SAFE_MODE aktiviert, üblicherweise in wp-config.php. WPCodeBox aktiviert den abgesicherten Modus bei jeder Definition dieser Konstante, auch beim Wert false."
+
+msgid "Enabled for this editor request through safe_mode=1."
+msgstr "Für diesen Editor-Aufruf über safe_mode=1 aktiviert."
+
+msgid "Enabled include"
+msgstr "Einbindung freigegeben"
+
+msgid "Enabled includes"
+msgstr "Freigegebene Einbindungen"
+
+msgid "Enabled includes reference missing or unreadable files. Review these entries first in WPCodeBox 2."
+msgstr "Freigegebene Einbindungen verweisen auf fehlende oder nicht lesbare Dateien. Diese Einträge zuerst in WPCodeBox 2 prüfen."
+
+msgid "Error Logs"
+msgstr "Fehlerprotokolle"
+
+msgid "External CSS"
+msgstr "Externes CSS"
+
+msgid "External JavaScript"
+msgstr "Externes JavaScript"
+
+msgid "Favorites updated."
+msgstr "Favoriten aktualisiert."
+
+msgid "File Manager"
+msgstr "Dateimanager"
+
+msgid "File path copied."
+msgstr "Dateipfad kopiert."
+
+msgid "File path to copy"
+msgstr "Dateipfad zum Kopieren"
+
+msgid "File status"
+msgstr "Dateistatus"
+
+msgid "Filter by title or folder"
+msgstr "Nach Titel oder Ordner filtern"
+
+msgid "Filter entries"
+msgstr "Einträge filtern"
+
+msgid "Find Snippets"
+msgstr "Snippets finden"
+
+msgid "Find in code"
+msgstr "Im Code suchen"
+
+msgid "Folder"
+msgstr "Ordner"
+
+msgid "Folders"
+msgstr "Ordner"
+
+msgid "Footer links"
+msgstr "Footer-Links"
+
+msgid "Format code"
+msgstr "Code formatieren"
+
+msgid "Functionality Plugin"
+msgstr "Functionality-Plugin"
+
+msgid "Functionality Plugin active"
+msgstr "Functionality-Plugin aktiv"
+
+msgid "Functionality Plugin active without WPCodeBox 2"
+msgstr "Functionality-Plugin ohne WPCodeBox 2 aktiv"
+
+msgid "Functionality Plugin inactive"
+msgstr "Functionality-Plugin inaktiv"
+
+msgid "Functionality Plugin overview"
+msgstr "Functionality-Plugin-Übersicht"
+
+msgid "Functionality Plugin: Safe Mode"
+msgstr "Functionality-Plugin: abgesicherter Modus"
+
+msgid "Git Updater is active. If a deckerweb installation or update fails, temporarily deactivate Git Updater and retry. Reactivate it afterwards if other plugins or themes need it. Only leave it disabled when those extensions have another reliable update provider."
+msgstr "Git Updater ist aktiv. Wenn eine deckerweb-Installation oder ein Update fehlschlägt, deaktivieren Sie Git Updater vorübergehend und versuchen Sie es erneut. Aktivieren Sie ihn danach wieder, wenn andere Plugins oder Themes ihn benötigen. Lassen Sie ihn nur dauerhaft deaktiviert, wenn diese Erweiterungen einen anderen zuverlässigen Updateweg besitzen."
+
+msgid "GitHub release does not contain the plugin main file."
+msgstr "Der GitHub-Release enthält nicht die Hauptdatei des Plugins."
+
+msgid "HTTP status: %d."
+msgstr "HTTP-Status: %d."
+
+msgid "Inactive"
+msgstr "Inaktiv"
+
+msgid "Inactive Snippets"
+msgstr "Inaktive Snippets"
+
+msgid "Information refreshed. Generated plugin files were not changed."
+msgstr "Informationen aktualisiert. Erzeugte Plugin-Dateien wurden nicht verändert."
+
+msgid "Invalid GitHub repository URL."
+msgstr "Ungültige GitHub-Repository-URL."
+
+msgid "Invalid authentication provider."
+msgstr "Ungültiger Authentifizierungsanbieter."
+
+msgid "Keyboard shortcuts"
+msgstr "Tastenkürzel"
+
+msgid "Last manual refresh: %s"
+msgstr "Letzte manuelle Aktualisierung: %s"
+
+msgid "Link to the current snippet"
+msgstr "Link zum aktuellen Snippet"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Manage favorites…"
+msgstr "Favoriten verwalten…"
+
+msgid "Manage installed plugins"
+msgstr "Installierte Plugins verwalten"
+
+msgid "Manage plugins"
+msgstr "Plugins verwalten"
+
+msgid "Manage snippets in WPCodeBox"
+msgstr "Snippets in WPCodeBox verwalten"
+
+msgid "Management through WPCodeBox available"
+msgstr "Verwaltung über WPCodeBox verfügbar"
+
+msgid "Matches: %d"
+msgstr "Treffer: %d"
+
+msgid "Menu entry limit"
+msgstr "Maximale Menüeinträge"
+
+msgid "Metadata snapshot: %s. Titles and types are associated by signed IDs and matching filenames; this is not a source-code synchronization check."
+msgstr "Metadatenstand: %s. Titel und Typen werden über IDs im Signaturverzeichnis und passende Dateinamen zugeordnet. Dies ist kein Abgleich des Quellcodes."
+
+msgid "Missing or unreadable"
+msgstr "Fehlend oder nicht lesbar"
+
+msgid "Missing or unreadable files"
+msgstr "Fehlende oder nicht lesbare Dateien"
+
+msgid "Native shortcuts depend on the current editor and context. QuickNav does not change them. Customize or disable QuickNav shortcuts in your personal settings."
+msgstr "Native Kürzel hängen vom aktuellen Editor und Kontext ab. QuickNav verändert sie nicht. QuickNav-Kürzel lassen sich in den persönlichen Einstellungen anpassen oder abschalten."
+
+msgid "Network activation"
+msgstr "Netzwerkaktivierung"
+
+msgid "New snippet"
+msgstr "Neues Snippet"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "No entries match these filters."
+msgstr "Keine Einträge passen zu diesen Filtern."
+
+msgid "No favorites selected yet. Choose snippets below to build your quick-access list."
+msgstr "Noch keine Favoriten ausgewählt. Wählen Sie unten Snippets für Ihren Schnellzugriff aus."
+
+msgid "No managed WPCodeBox Functionality Plugin was detected. Independently exported plugins are not inventoried."
+msgstr "Es wurde kein verwaltetes WPCodeBox-Functionality-Plugin erkannt. Separat exportierte Plugins werden nicht erfasst."
+
+msgid "No matching snippets."
+msgstr "Keine passenden Snippets gefunden."
+
+msgid "No snippets yet. Create your first snippet in WPCodeBox."
+msgstr "Noch keine Snippets. Lege Ihr erstes Snippet in WPCodeBox an."
+
+msgid "No supported literal snippet includes were found."
+msgstr "Es wurden keine unterstützten direkten Snippet-Einbindungen gefunden."
+
+msgid "Normal view restored."
+msgstr "Normale Ansicht wiederhergestellt."
+
+msgid "Not active"
+msgstr "Nicht aktiv"
+
+msgid "Off"
+msgstr "Aus"
+
+msgid "Only literal snippet includes in the main plugin file are listed. Assets and other resources are not separate execution entries."
+msgstr "Aufgeführt sind nur direkte Snippet-Einbindungen mit festem Dateipfad in der Plugin-Hauptdatei. Assets und andere Ressourcen sind keine eigenen Ausführungseinträge."
+
+msgid "Open a favorite directly from its card. This preview follows your selection; save to update the toolbar."
+msgstr "Öffnen Sie einen Favoriten direkt über seine Karte. Die Vorschau folgt Ihrer Auswahl; speichern Sie sie zum Aktualisieren der Toolbar."
+
+msgid "Open editor in Safe Mode"
+msgstr "Editor im Safe Mode öffnen"
+
+msgid "Open view"
+msgstr "Ansicht öffnen"
+
+msgid "Operating status"
+msgstr "Betriebsstatus"
+
+msgid "Optional name for the WPCodeBox main menu. Leave blank to keep its original name. Applies when WPCodeBox has its own main menu; the Snippets submenu and personal toolbar name stay separate."
+msgstr "Optionaler Name für das WPCodeBox-Hauptmenü. Ein leeres Feld behält den Originalnamen bei. Gilt, wenn WPCodeBox ein eigenes Hauptmenü hat; das Untermenü Snippets und der persönliche Toolbar-Name bleiben davon unabhängig."
+
+msgid "Optional, for your account on this website. Reopen WPCodeBox in the last selected normal, fullscreen or editor-focus view. Snippet content and the native pane settings are not saved by QuickNav."
+msgstr "Optional für das eigene Konto auf dieser Website. WPCodeBox öffnet sich wieder in der zuletzt gewählten normalen Ansicht, im Vollbild oder im Editor-Fokus. Snippet-Inhalte und native Seitenleisten-Einstellungen werden dabei nicht von QuickNav gespeichert."
+
+msgid "Other types"
+msgstr "Weitere Typen"
+
+msgid "Package download"
+msgstr "Paketdownload"
+
+msgid "Permission denied."
+msgstr "Zugriff verweigert."
+
+msgid "Personal favorites"
+msgstr "Persönliche Favoriten"
+
+msgid "Personal name of the main toolbar entry on this website. Leave blank to restore WPCodeBox. The optional snippet count is appended automatically."
+msgstr "Persönlicher Name des Toolbar-Haupteintrags auf dieser Website. Ein leeres Feld stellt WPCodeBox wieder her. Der optionale Snippet-Zähler wird automatisch angehängt."
+
+msgid "Please select no more than 100 favorites."
+msgstr "Bitte wählen Sie höchstens 100 Favoriten aus."
+
+msgid "Plugin information"
+msgstr "Plugin-Informationen"
+
+msgid "Plugin on GitHub"
+msgstr "Plugin auf GitHub"
+
+msgid "Plugin version"
+msgstr "Plugin-Version"
+
+msgid "Plugin website"
+msgstr "Plugin-Website"
+
+msgid "Press Escape or use Back to normal view to leave this view. Native editor controls remain available."
+msgstr "Escape oder „Zurück zur normalen Ansicht“ beendet diese Ansicht. Die Editor-Bedienelemente bleiben verfügbar."
+
+msgid "Private mode must be boolean."
+msgstr "Der Private-Modus muss ein boolescher Wert sein."
+
+msgid "Public catalog callbacks require both providers and cannot be used in private mode."
+msgstr "Öffentliche Katalog-Callbacks benötigen beide Anbieter und können nicht im Private-Modus verwendet werden."
+
+msgid "QuickNav preferences"
+msgstr "QuickNav-Einstellungen"
+
+msgid "QuickNav settings"
+msgstr "QuickNav-Einstellungen"
+
+msgid "QuickNav updates are paused because another plugin loaded an older deckerweb Updater. Update that plugin to restore QuickNav updates."
+msgstr "QuickNav-Updates pausieren, weil ein anderes Plugin einen älteren deckerweb Updater geladen hat. Aktualisieren Sie dieses Plugin, um QuickNav-Updates wieder zu ermöglichen."
+
+msgid "QuickNav views"
+msgstr "QuickNav-Ansichten"
+
+msgid "QuickNav: Open settings"
+msgstr "QuickNav: Einstellungen öffnen"
+
+msgid "Reach your snippets through favorites, status lists and folders in the WordPress toolbar."
+msgstr "Erreiche Ihre Snippets über Favoriten, Statuslisten und Ordner in der WordPress-Toolbar."
+
+msgid "Readable"
+msgstr "Lesbar"
+
+msgid "Recheck files and capture available WPCodeBox 2 metadata. No plugin regeneration."
+msgstr "Dateien erneut prüfen und verfügbare WPCodeBox-2-Metadaten erfassen. Das Plugin wird nicht neu erzeugt."
+
+msgid "Refresh information"
+msgstr "Informationen aktualisieren"
+
+msgid "Remember my last workspace view"
+msgstr "Meine letzte Editoransicht merken"
+
+msgid "Remove from favorites"
+msgstr "Aus Favoriten entfernen"
+
+msgid "Reset filters"
+msgstr "Filter zurücksetzen"
+
+msgid "Resource links"
+msgstr "Ressourcenlinks"
+
+msgid "Run snippet"
+msgstr "Snippet ausführen"
+
+msgid "SCRIPT_DEBUG is on ⚠"
+msgstr "SCRIPT_DEBUG ist eingeschaltet ⚠"
+
+msgid "SCSS partial"
+msgstr "SCSS-Teil"
+
+msgid "Safe Mode"
+msgstr "Safe Mode"
+
+msgid "Safe Mode active"
+msgstr "Safe Mode aktiv"
+
+msgid "Safe Mode is enabled by WPCB_SAFE_MODE. Generated snippet execution is paused, even if the constant is false."
+msgstr "Der abgesicherte Modus ist durch WPCB_SAFE_MODE eingeschaltet. Die Ausführung der erzeugten Snippets ist pausiert, auch beim Wert false."
+
+msgid "Safe Mode: execution paused"
+msgstr "Abgesicherter Modus: Ausführung pausiert"
+
+msgid "Save a local snippet before adding it to favorites."
+msgstr "Ein lokales Snippet muss zuerst gespeichert werden, bevor es als Favorit markiert werden kann."
+
+msgid "Save a local snippet before copying its link."
+msgstr "Ein lokales Snippet zuerst speichern, um seinen Link zu kopieren."
+
+msgid "Save my preferences"
+msgstr "Meine Einstellungen speichern"
+
+msgid "Save snippet"
+msgstr "Snippet speichern"
+
+msgid "Save website settings"
+msgstr "Website-Einstellungen speichern"
+
+msgid "Saved favorites"
+msgstr "Gespeicherte Favoriten"
+
+msgid "Search all snippets"
+msgstr "Alle Snippets durchsuchen"
+
+msgid "Search is unavailable. Try again or reload this page. The original snippet list remains available."
+msgstr "Die Suche ist nicht verfügbar. Versuchen Sie es erneut oder laden Sie diese Seite neu. Die ursprüngliche Snippet-Liste bleibt verfügbar."
+
+msgid "Search snippets and files"
+msgstr "Snippets und Dateien durchsuchen"
+
+msgid "Search titles and folder paths across all folders. Snippet contents are not searched."
+msgstr "Titel und Ordnerpfade in allen Ordnern durchsuchen. Snippet-Inhalte werden nicht durchsucht."
+
+msgid "Searching…"
+msgstr "Suche läuft …"
+
+msgid "See the release on GitHub."
+msgstr "Sehen Sie sich den Release auf GitHub an."
+
+msgid "Select up to 100 snippets. Deleted snippets disappear from the list automatically. The limit above controls how many favorites appear in the toolbar."
+msgstr "Wählen Sie bis zu 100 Snippets. Gelöschte Snippets verschwinden automatisch aus der Liste. Das obige Limit bestimmt, wie viele Favoriten in der Toolbar erscheinen."
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Show QuickNav search in WPCodeBox"
+msgstr "QuickNav-Suche in WPCodeBox anzeigen"
+
+msgid "Show developer links"
+msgstr "Entwicklerlinks anzeigen"
+
+msgid "Show resource links in the toolbar"
+msgstr "Ressourcen-Links in der Toolbar anzeigen"
+
+msgid "Show snippet count in the toolbar"
+msgstr "Snippet-Zähler in der Toolbar anzeigen"
+
+msgid "Showing the first 50 matches. Refine your search for more precise results."
+msgstr "Die ersten 50 Treffer werden angezeigt. Grenzen Sie die Suche für genauere Ergebnisse weiter ein."
+
+msgid "Site Health Info"
+msgstr "Website-Zustand Bericht"
+
+msgid "Snippet / file"
+msgstr "Snippet / Datei"
+
+msgid "Snippet count"
+msgstr "Snippet-Zähler"
+
+msgid "Snippet error"
+msgstr "Snippet-Fehler"
+
+msgid "Snippet execution is paused by WPCodeBox. QuickNav navigation and your preferences remain available."
+msgstr "Die Snippet-Ausführung ist durch WPCodeBox pausiert. QuickNav-Navigation und persönliche Einstellungen bleiben verfügbar."
+
+msgid "Snippet files"
+msgstr "Snippet-Dateien"
+
+msgid "Snippet link copied."
+msgstr "Snippet-Link kopiert."
+
+msgid "Snippet status"
+msgstr "Snippet-Status"
+
+msgid "Snippet type"
+msgstr "Snippet-Typ"
+
+msgid "Snippet types"
+msgstr "Snippet-Typen"
+
+msgid "Snippets"
+msgstr "Snippets"
+
+msgid "Snippets Library by WPCode"
+msgstr "Snippet-Bibliothek von WPCode"
+
+msgid "Snippets Library by dPlugins"
+msgstr "Snippet-Bibliothek von dPlugins"
+
+msgid "Snippets by Folder"
+msgstr "Snippets nach Ordnern"
+
+msgid "Standalone operation"
+msgstr "Eigenständiger Betrieb"
+
+msgid "Support the project"
+msgstr "Projekt unterstützen"
+
+msgid "System Dashboard"
+msgstr "System-Dashboard"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "The Functionality Plugin is active, but WPCB_SAFE_MODE pauses its generated snippet execution. Defining this constant also enables Safe Mode when its value is false."
+msgstr "Das Functionality-Plugin ist aktiv, aber WPCB_SAFE_MODE pausiert die Ausführung seiner erzeugten Snippets. Die Definition dieser Konstante aktiviert den abgesicherten Modus auch beim Wert false."
+
+msgid "The GitHub package could not be prepared. The installed version has been kept."
+msgstr "Das GitHub-Paket konnte nicht vorbereitet werden. Die installierte Version bleibt erhalten."
+
+msgid "The GitHub package does not contain the WPCodeBox QuickNav plugin file."
+msgstr "Das GitHub-Paket enthält die Plugin-Datei von WPCodeBox QuickNav nicht."
+
+msgid "The approved release changed. Refresh updates first."
+msgstr "Die freigegebene Version hat sich geändert. Suchen Sie zuerst erneut nach Updates."
+
+msgid "The approved release could not be verified."
+msgstr "Die freigegebene Version konnte nicht geprüft werden."
+
+msgid "The archive or plugin identity could not be verified. Installation was stopped."
+msgstr "Das Archiv oder die Pluginidentität konnte nicht geprüft werden. Die Installation wurde gestoppt."
+
+msgid "The favorite could not be saved. Please try again."
+msgstr "Der Favorit konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "The file exists and can be read. This does not confirm that its code ran successfully."
+msgstr "Die Datei ist vorhanden und lesbar. Das bestätigt keine erfolgreiche Ausführung ihres Codes."
+
+msgid "The file is configured to load through the active Functionality Plugin. Conditions, hooks and Safe Mode still determine execution."
+msgstr "Die Datei ist zum Laden durch das aktive Functionality-Plugin vorgesehen. Bedingungen, Hooks und Safe Mode beeinflussen weiterhin die Ausführung."
+
+msgid "The generated configuration has changed since the metadata snapshot. Saved titles may be outdated; filenames and inclusion states below are current."
+msgstr "Die erzeugte Konfiguration hat sich seit dem gespeicherten Metadatenstand geändert. Gespeicherte Titel können veraltet sein; die angezeigten Dateinamen und Einbindungszustände sind aktuell."
+
+msgid "The generated plugin remains active independently. Activate supported WPCodeBox 2 to manage individual snippets; saved metadata remains available here."
+msgstr "Das erzeugte Plugin bleibt eigenständig aktiv. Für die Verwaltung einzelner Snippets ist unterstütztes WPCodeBox 2 erforderlich; gespeicherte Metadaten bleiben hier verfügbar."
+
+msgid "The load instruction is disabled, so this Functionality Plugin does not include the snippet file. The file is not deleted."
+msgstr "Der Ladebefehl ist deaktiviert. Dieses Functionality-Plugin bindet die Snippet-Datei daher nicht ein. Die Datei wird dadurch nicht gelöscht."
+
+msgid "The package does not match the approved checksum. Installation was stopped."
+msgstr "Das Paket entspricht nicht der freigegebenen Prüfsumme. Die Installation wurde gestoppt."
+
+msgid "The package identity or version does not match a newer WPCodeBox QuickNav release."
+msgstr "Die Paketidentität oder Version entspricht keinem neueren Advanced-Snippets-QuickNav-Release."
+
+msgid "The package version differs from the offered update. Please check for updates again."
+msgstr "Die Paketversion weicht vom angebotenen Update ab. Bitte prüfen Sie erneut auf Updates."
+
+msgid "The plugin must be installed in a stable slug directory."
+msgstr "Das Plugin muss in einem Verzeichnis mit einem festen Slug installiert sein."
+
+msgid "The private update could not be authorized. Check the repository credentials and refresh updates."
+msgstr "Das private Update konnte nicht autorisiert werden. Prüfen Sie die Repository-Zugangsdaten und suchen Sie erneut nach Updates."
+
+msgid "The private update download failed. Check credentials and try again."
+msgstr "Der Download des privaten Updates ist fehlgeschlagen. Prüfen Sie die Zugangsdaten und versuchen Sie es erneut."
+
+msgid "The secure connection to the update server failed."
+msgstr "Die sichere Verbindung zum Updateserver ist fehlgeschlagen."
+
+msgid "The update filesystem is unavailable. Please try again."
+msgstr "Das Dateisystem für Updates ist nicht verfügbar. Bitte versuche es erneut."
+
+msgid "The update package could not be checked."
+msgstr "Das Update-Paket konnte nicht geprüft werden."
+
+msgid "The update package has missing or invalid WordPress/PHP requirements."
+msgstr "Die WordPress- oder PHP-Voraussetzungen im Update-Paket fehlen oder sind ungültig."
+
+msgid "The update provider did not return valid update data."
+msgstr "Der Updateanbieter hat keine gültigen Updatedaten geliefert."
+
+msgid "The update request timed out. Try again later."
+msgstr "Die Updateanfrage hat zu lange gedauert. Versuchen Sie es später erneut."
+
+msgid "The update server address could not be resolved."
+msgstr "Die Adresse des Updateservers konnte nicht aufgelöst werden."
+
+msgid "The update server could not be reached. Try again later."
+msgstr "Der Updateserver ist nicht erreichbar. Versuchen Sie es später erneut."
+
+msgid "The update server returned an unsuccessful HTTP response."
+msgstr "Der Updateserver hat eine HTTP-Fehlerantwort zurückgegeben."
+
+msgid "The view changed, but could not be remembered. Please try again."
+msgstr "Die Ansicht wurde gewechselt, konnte aber nicht gemerkt werden. Bitte erneut versuchen."
+
+msgid "These preferences apply only to your account on this website. Constants in wp-config.php take precedence over display preferences."
+msgstr "Diese Einstellungen gelten nur für Ihr Konto auf dieser Website. Konstanten in wp-config.php haben Vorrang vor Anzeigeoptionen."
+
+msgid "These settings apply to all users of this website and are saved separately from personal preferences."
+msgstr "Diese Einstellungen gelten für alle Benutzer dieser Website und werden getrennt von persönlichen Einstellungen gespeichert."
+
+msgid "This name is controlled by a configuration constant. Your saved personal name is retained."
+msgstr "Dieser Name ist durch eine Konstante vorgegeben. Der gespeicherte persönliche Name bleibt erhalten."
+
+msgid "This overview reads the generated configuration. It does not prove that a snippet executed on this request. Hooks, conditions and Safe Mode can prevent execution."
+msgstr "Diese Übersicht liest die erzeugte Konfiguration. Sie belegt nicht, dass ein Snippet bei diesem Aufruf ausgeführt wurde. Hooks, Bedingungen und der abgesicherte Modus können die Ausführung verhindern."
+
+msgid "This release requires a newer WordPress or PHP version. The installed version has been kept."
+msgstr "Dieses Release benötigt eine neuere WordPress- oder PHP-Version. Die installierte Version bleibt erhalten."
+
+msgid "To pause all functions, deactivate the Functionality Plugin through WordPress plugin management. QuickNav does not edit or delete generated files."
+msgstr "Zum Pausieren aller Funktionen wird das Functionality-Plugin in der WordPress-Plugin-Verwaltung deaktiviert. QuickNav verändert oder löscht keine erzeugten Dateien."
+
+msgid "Toggle both side panes"
+msgstr "Beide Seitenleisten ein-/ausblenden"
+
+msgid "Toggle line comment"
+msgstr "Zeilenkommentar umschalten"
+
+msgid "Toggle snippet list"
+msgstr "Snippet-Liste ein-/ausblenden"
+
+msgid "Toggle snippet settings"
+msgstr "Snippet-Einstellungen ein-/ausblenden"
+
+msgid "Toolbar entry name"
+msgstr "Name des Toolbar-Eintrags"
+
+msgid "Tools"
+msgstr "Werkzeuge"
+
+msgid "Type / folder"
+msgstr "Typ / Ordner"
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "Untitled snippet"
+msgstr "Snippet ohne Titel"
+
+msgid "Update stopped at %1$s: %2$s"
+msgstr "Update gestoppt bei %1$s: %2$s"
+
+msgid "Use Control + Alt + Shift plus the selected letter (Control + Option + Shift on Mac). Personal to this website. Choose Off if your system, keyboard layout or assistive software uses the combination."
+msgstr "Strg + Alt + Umschalt mit dem gewählten Buchstaben verwenden (Control + Option + Shift auf dem Mac). Gilt persönlich auf dieser Website. Aus wählen, wenn System, Tastaturlayout oder Hilfssoftware die Kombination verwendet."
+
+msgid "Variable Inspector"
+msgstr "Variablen-Inspektor"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "View all in WPCodeBox…"
+msgstr "Alle in WPCodeBox anzeigen…"
+
+msgid "WP SnippetClub Archive"
+msgstr "WP SnippetClub Archiv"
+
+msgid "WP Snippets Library"
+msgstr "WP Snippets Bibliothek"
+
+msgid "WPCodeBin by WPCodeBox"
+msgstr "WPCodeBin von WPCodeBox"
+
+msgid "WPCodeBox"
+msgstr "WPCodeBox"
+
+msgid "WPCodeBox 2 and Functionality Plugin active"
+msgstr "WPCodeBox 2 und Functionality-Plugin aktiv"
+
+msgid "WPCodeBox 2 is available for managing snippets; the generated plugin is active in WordPress. Configured includes are listed below."
+msgstr "WPCodeBox 2 ist für die Snippet-Verwaltung verfügbar; das erzeugte Plugin ist in WordPress aktiv. Seine konfigurierten Einbindungen stehen in der Liste darunter."
+
+msgid "WPCodeBox QuickNav requires PHP 8.3 or newer."
+msgstr "WPCodeBox QuickNav benötigt PHP 8.3 oder neuer."
+
+msgid "WPCodeBox Safe Mode active 🔥"
+msgstr "WPCodeBox Safe Mode aktiv 🔥"
+
+msgid "WPCodeBox Safe Mode is active."
+msgstr "Der Safe Mode von WPCodeBox ist aktiv."
+
+msgid "WPCodeBox and editor"
+msgstr "WPCodeBox und Editor"
+
+msgid "WPCodeBox is installed but inactive or unavailable. Activate WPCodeBox 2 version 1.4.1 or newer to use snippet navigation. Display preferences remain available. QuickNav remains active and your saved preferences are kept."
+msgstr "WPCodeBox ist installiert, aber inaktiv oder nicht unterstützt. Für die Snippet-Navigation ist aktives WPCodeBox 2 ab Version 1.4.1 erforderlich. Anzeigeoptionen bleiben verfügbar; QuickNav bleibt aktiv und gespeicherte Einstellungen bleiben erhalten."
+
+msgid "WPCodeBox is not installed yet. Install and activate WPCodeBox 2 version 1.4.1 or newer to use snippet navigation. Display preferences remain available. QuickNav remains active and your saved preferences are kept."
+msgstr "WPCodeBox ist noch nicht installiert. Für die Snippet-Navigation ist installiertes und aktives WPCodeBox 2 ab Version 1.4.1 erforderlich. Anzeigeoptionen bleiben verfügbar; QuickNav bleibt aktiv und gespeicherte Einstellungen bleiben erhalten."
+
+msgid "WPCodeBox management unavailable"
+msgstr "WPCodeBox-Verwaltung nicht verfügbar"
+
+msgid "WPCodeBox resources"
+msgstr "WPCodeBox-Ressourcen"
+
+msgid "WPCodeBox support"
+msgstr "WPCodeBox-Support"
+
+msgid "WPCodeBox website"
+msgstr "WPCodeBox-Website"
+
+msgid "WPCodeBox workspace views"
+msgstr "WPCodeBox-Ansichten"
+
+msgid "WPCodeBox: Add new snippet"
+msgstr "WPCodeBox: Neues Snippet anlegen"
+
+msgid "WPCodeBox: Open favorite — %s"
+msgstr "WPCodeBox: Favorit öffnen — %s"
+
+msgid "WPCodeBox: Open snippet manager"
+msgstr "WPCodeBox: Snippet-Verwaltung öffnen"
+
+msgid "WPCodeBox: Search all snippets"
+msgstr "WPCodeBox: Alle Snippets durchsuchen"
+
+msgid "Website functions at a glance."
+msgstr "Website-Funktionen auf einen Blick."
+
+msgid "Website scope"
+msgstr "Geltungsbereich: Website"
+
+msgid "Website settings"
+msgstr "Website-Einstellungen"
+
+msgid "What do the other states mean?"
+msgstr "Was bedeuten die anderen Statusangaben?"
+
+msgid "WordPress does not load the configured includes through this plugin. This status does not describe code provided by other plugins."
+msgstr "WordPress lädt die konfigurierten Einbindungen nicht über dieses Plugin. Dieser Status beschreibt keinen Code, der über andere Plugins bereitgestellt wird."
+
+msgid "Workspace fullscreen"
+msgstr "Arbeitsbereich im Vollbild"
+
+msgid "Workspace keyboard shortcuts"
+msgstr "Tastenkürzel für die Editoransichten"
+
+msgid "Your favorites"
+msgstr "Ihre Favoriten"
+
+msgid "Your settings have been saved."
+msgstr "Die Einstellungen wurden gespeichert."
+
+msgid "Your snippet overview"
+msgstr "Ihre Snippet-Übersicht"
+
+msgid "Your snippets. One click away."
+msgstr "Ihre Snippets. Einen Klick entfernt."
+
+msgid "active"
+msgstr "aktiv"
+
+msgid "administration"
+msgstr "Adminbereich"
+
+msgid "everywhere"
+msgstr "überall"
+
+msgid "front-end"
+msgstr "Frontend"
+
+msgid "inactive"
+msgstr "inaktiv"
+
+msgid "shortcode"
+msgstr "Shortcode"
+
+msgid "★ Favorites"
+msgstr "★ Favoriten"
