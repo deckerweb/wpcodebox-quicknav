@@ -4,6 +4,8 @@
 
 Deine Snippets. Einen Klick entfernt. WPCodeBox QuickNav verbindet die WordPress-Toolbar mit Favoriten, Snippet-Suche, praktischen Editoransichten und einer Übersicht über das WPCodeBox-Functionality-Plugin.
 
+[Plugin-Website](https://deckerwebplugins.com/de/plugins/wpcodebox-quicknav/)
+
 **1.0.0 · WordPress 6.9+ · PHP 8.3+ · WPCodeBox 2 ≥ 1.4.1**
 
 [English](README.md) · [Vollständige Anleitung und Fragen nach Themen](https://github.com/deckerweb/wpcodebox-quicknav/wiki/Anleitung)
