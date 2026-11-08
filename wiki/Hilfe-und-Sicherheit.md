@@ -1,6 +1,6 @@
 # Hilfe und Sicherheit
 
-[English](https://github.com/deckerweb/wpcodebox-quicknav/wiki/Help-and-security)
+[English](Help-and-security)
 
 [Normale Fehler melden](https://github.com/deckerweb/wpcodebox-quicknav/issues) · [Fragen und Austausch](https://github.com/deckerweb/wpcodebox-quicknav/discussions)
 

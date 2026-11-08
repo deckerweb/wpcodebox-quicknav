@@ -1,6 +1,6 @@
 # Help and security
 
-[Deutsch](https://github.com/deckerweb/wpcodebox-quicknav/wiki/Hilfe-und-Sicherheit)
+[Deutsch](Hilfe-und-Sicherheit)
 
 [Report ordinary bugs](https://github.com/deckerweb/wpcodebox-quicknav/issues) · [Questions and discussion](https://github.com/deckerweb/wpcodebox-quicknav/discussions)
 

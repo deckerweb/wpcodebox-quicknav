@@ -1,6 +1,6 @@
 **WPCodeBox QuickNav · Documentation / Dokumentation**
 
-[Plugin website (EN)](https://deckerwebplugins.com/en/plugins/wpcodebox-quicknav/) · [Plugin-Website (DE)](https://deckerwebplugins.com/de/plugins/wpcodebox-quicknav/) · [Wiki home / Wiki-Startseite](https://github.com/deckerweb/wpcodebox-quicknav/wiki/Home) · [Repository](https://github.com/deckerweb/wpcodebox-quicknav) · [Downloads & Releases](https://github.com/deckerweb/wpcodebox-quicknav/releases)
+[Plugin website (EN)](https://deckerwebplugins.com/en/plugins/wpcodebox-quicknav/) · [Plugin-Website (DE)](https://deckerwebplugins.com/de/plugins/wpcodebox-quicknav/) · [Wiki home / Wiki-Startseite](Home) · [Repository](https://github.com/deckerweb/wpcodebox-quicknav) · [Downloads & Releases](https://github.com/deckerweb/wpcodebox-quicknav/releases)
 
 [Help & bugs / Hilfe & Fehler](https://github.com/deckerweb/wpcodebox-quicknav/issues) · [Discussions / Austausch](https://github.com/deckerweb/wpcodebox-quicknav/discussions) · [Security / Sicherheit](https://github.com/deckerweb/wpcodebox-quicknav/security/policy)
 

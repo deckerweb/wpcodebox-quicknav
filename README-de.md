@@ -6,7 +6,7 @@ Deine Snippets. Einen Klick entfernt. WPCodeBox QuickNav verbindet die WordPress
 
 [Plugin-Website](https://deckerwebplugins.com/de/plugins/wpcodebox-quicknav/)
 
-**1.0.0 · WordPress 6.9+ · PHP 8.3+ · WPCodeBox 2 ≥ 1.4.1**
+**1.0.1 · WordPress 6.9+ · PHP 8.3+ · WPCodeBox 2 ≥ 1.4.1**
 
 [English](README.md) · [Vollständige Anleitung und Fragen nach Themen](https://github.com/deckerweb/wpcodebox-quicknav/wiki/Anleitung)
 
@@ -66,7 +66,7 @@ Die eigenständige Übersicht zeigt erkannte verwaltete Plugins mit echtem WordP
 
 ### Befehle, abgesicherter Modus und Ressourcen
 
-Die native WordPress-Befehlspalette erhält dort, wo sie verfügbar ist, QuickNav-Verknüpfungen. Die Toolbar bietet den WPCodeBox-Safe-Mode-Zugang, optionale Ressourcen und passende Entwicklerwerkzeuge. Library 1.2.0 und Updater 2.3.0 sind enthalten. Ein eigenständiger roter Warnstreifen mit Flamme rechts bleibt bei aktivem Safe Mode sichtbar, auch im Frontend.
+Die native WordPress-Befehlspalette erhält dort, wo sie verfügbar ist, QuickNav-Verknüpfungen. Die Toolbar bietet den WPCodeBox-Safe-Mode-Zugang, optionale Ressourcen und passende Entwicklerwerkzeuge. Library 1.3.0 und Updater 2.4.0 sind enthalten. Ein eigenständiger roter Warnstreifen mit Flamme rechts bleibt bei aktivem Safe Mode sichtbar, auch im Frontend.
 
 <a id="part-4"></a>
 ## FAQ
@@ -103,6 +103,10 @@ Diese Angaben gehören zur QuickNav-Übersicht des von WPCodeBox erzeugten Funct
 
 <a id="part-5"></a>
 ## Änderungsverlauf
+
+## 1.0.1 · 2026-11-09
+
+- **Behoben:** deckerweb Library auf 1.3.0 und Updater auf 2.4.0 aktualisiert: normale Updates unabhängig vom Katalog, begrenzte Downloads und strengere Paketprüfung.
 
 ## 1.0.0
 

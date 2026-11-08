@@ -1,5 +1,5 @@
 <?php
-/** Translate the canonical updater messages through the host textdomain. */
+/** Copy into the host adapter and replace the wpcodebox-quicknav textdomain with its literal domain. */
 defined( 'ABSPATH' ) || exit;
 /**
  * Resolve an updater source string in the host textdomain.
@@ -77,6 +77,14 @@ return static function ( string $message ): string {
         case 'HTTP status: %d.':
             /* translators: %d: HTTP error status. */
             return __( 'HTTP status: %d.', 'wpcodebox-quicknav' );
+        case 'Invalid private download limits.':
+            return __( 'Invalid private download limits.', 'wpcodebox-quicknav' );
+        case 'Invalid package cleanup provider.':
+            return __( 'Invalid package cleanup provider.', 'wpcodebox-quicknav' );
+        case 'Safe package cleanup is unavailable for this update provider.':
+            return __( 'Safe package cleanup is unavailable for this update provider.', 'wpcodebox-quicknav' );
+        case 'The update package identity, version or requirements could not be verified.':
+            return __( 'The update package identity, version or requirements could not be verified.', 'wpcodebox-quicknav' );
         default:
             return $message;
     }

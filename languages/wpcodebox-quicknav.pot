@@ -1,0 +1,1691 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpcodebox-quicknav 1.0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+
+msgid "%1$d of %2$d entries shown."
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Active Snippets"
+msgstr ""
+
+msgid ""
+"Active and inactive refer to saved snippet status. Conditions, run type, "
+"Safe Mode and execution location can affect execution. WPCodeBox folders do "
+"not disable snippets."
+msgstr ""
+
+msgid "Active, blocked by folder"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add to favorites"
+msgstr ""
+
+msgid "Admin main menu name"
+msgstr ""
+
+msgid "Adminer: Manage DB"
+msgstr ""
+
+msgid "All entries"
+msgstr ""
+
+msgid "All snippets"
+msgstr ""
+
+msgid "All statuses"
+msgstr ""
+
+msgid "All types"
+msgstr ""
+
+msgid ""
+"Applies to each status list, favorites, and the folder tree. Additional "
+"entries remain accessible in WPCodeBox."
+msgstr ""
+
+msgid "Archive verification"
+msgstr ""
+
+msgid "Author: David Decker"
+msgstr ""
+
+msgid "Automatic copying is unavailable. Select and copy the path below."
+msgstr ""
+
+msgid "Back to normal view"
+msgstr ""
+
+msgid "Buy Me a Coffee"
+msgstr ""
+
+msgid "Catalog approval"
+msgstr ""
+
+msgid "Catalog diagnostics require a public catalog provider."
+msgstr ""
+
+msgid "Changelog"
+msgstr ""
+
+msgid "Checksum verification"
+msgstr ""
+
+msgid ""
+"Choose different keys for fullscreen and editor focus, or disable one of "
+"them."
+msgstr ""
+
+msgid "Choose favorites"
+msgstr ""
+
+msgid "Clear search"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Code Snippet"
+msgstr ""
+
+msgid "Code Snippets Cloud"
+msgstr ""
+
+msgid "Codes by Web Squadron"
+msgstr ""
+
+msgid "Commented out"
+msgstr ""
+
+msgid "Complete editor shortcut reference"
+msgstr ""
+
+msgid "Configured inclusion"
+msgstr ""
+
+msgid ""
+"Controls Find snippets and Links for your account on this website. Safe "
+"Mode, snippet navigation and About remain available."
+msgstr ""
+
+msgid "Copy file path"
+msgstr ""
+
+msgid "Copy snippet link"
+msgstr ""
+
+msgid "Copy the selected link manually."
+msgstr ""
+
+msgid "Could not access the update filesystem."
+msgstr ""
+
+msgid "Could not create the update download file."
+msgstr ""
+
+msgid "Could not prepare the GitHub release package."
+msgstr ""
+
+msgid "Customize QuickNav shortcuts"
+msgstr ""
+
+msgid "Debug Log Manager"
+msgstr ""
+
+msgid "Developer links"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Disabled by folder"
+msgstr ""
+
+msgid "Dismiss this notice"
+msgstr ""
+
+msgid "Display preferences"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Editor command palette"
+msgstr ""
+
+msgid "Editor focus"
+msgstr ""
+
+msgid "Emergency Fixes 🔥"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid ""
+"Enabled by the WPCB_SAFE_MODE constant, usually set in wp-config.php. "
+"WPCodeBox enables Safe Mode whenever this constant is defined, including "
+"when its value is false."
+msgstr ""
+
+msgid "Enabled for this editor request through safe_mode=1."
+msgstr ""
+
+msgid "Enabled include"
+msgstr ""
+
+msgid "Enabled includes"
+msgstr ""
+
+msgid ""
+"Enabled includes reference missing or unreadable files. Review these entries "
+"first in WPCodeBox 2."
+msgstr ""
+
+msgid "Error Logs"
+msgstr ""
+
+msgid "External CSS"
+msgstr ""
+
+msgid "External JavaScript"
+msgstr ""
+
+msgid "Favorites updated."
+msgstr ""
+
+msgid "File Manager"
+msgstr ""
+
+msgid "File path copied."
+msgstr ""
+
+msgid "File path to copy"
+msgstr ""
+
+msgid "File status"
+msgstr ""
+
+msgid "Filter by title or folder"
+msgstr ""
+
+msgid "Filter entries"
+msgstr ""
+
+msgid "Find Snippets"
+msgstr ""
+
+msgid "Find in code"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Folders"
+msgstr ""
+
+msgid "Footer links"
+msgstr ""
+
+msgid "Format code"
+msgstr ""
+
+msgid "Functionality Plugin"
+msgstr ""
+
+msgid "Functionality Plugin active"
+msgstr ""
+
+msgid "Functionality Plugin active without WPCodeBox 2"
+msgstr ""
+
+msgid "Functionality Plugin inactive"
+msgstr ""
+
+msgid "Functionality Plugin overview"
+msgstr ""
+
+msgid "Functionality Plugin: Safe Mode"
+msgstr ""
+
+msgid ""
+"Git Updater is active. If a deckerweb installation or update fails, "
+"temporarily deactivate Git Updater and retry. Reactivate it afterwards if "
+"other plugins or themes need it. Only leave it disabled when those "
+"extensions have another reliable update provider."
+msgstr ""
+
+msgid "GitHub release does not contain the plugin main file."
+msgstr ""
+
+msgid "HTTP status: %d."
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Inactive Snippets"
+msgstr ""
+
+msgid "Information refreshed. Generated plugin files were not changed."
+msgstr ""
+
+msgid "Invalid GitHub repository URL."
+msgstr ""
+
+msgid "Invalid authentication provider."
+msgstr ""
+
+msgid "Keyboard shortcuts"
+msgstr ""
+
+msgid "Last manual refresh: %s"
+msgstr ""
+
+msgid "Link to the current snippet"
+msgstr ""
+
+msgid "Links"
+msgstr ""
+
+msgid "Manage favorites…"
+msgstr ""
+
+msgid "Manage installed plugins"
+msgstr ""
+
+msgid "Manage plugins"
+msgstr ""
+
+msgid "Manage snippets in WPCodeBox"
+msgstr ""
+
+msgid "Management through WPCodeBox available"
+msgstr ""
+
+msgid "Matches: %d"
+msgstr ""
+
+msgid "Menu entry limit"
+msgstr ""
+
+msgid ""
+"Metadata snapshot: %s. Titles and types are associated by signed IDs and "
+"matching filenames; this is not a source-code synchronization check."
+msgstr ""
+
+msgid "Missing or unreadable"
+msgstr ""
+
+msgid "Missing or unreadable files"
+msgstr ""
+
+msgid ""
+"Native shortcuts depend on the current editor and context. QuickNav does not "
+"change them. Customize or disable QuickNav shortcuts in your personal "
+"settings."
+msgstr ""
+
+msgid "Network activation"
+msgstr ""
+
+msgid "New snippet"
+msgstr ""
+
+msgid "Newsletter"
+msgstr ""
+
+msgid "No entries match these filters."
+msgstr ""
+
+msgid ""
+"No favorites selected yet. Choose snippets below to build your quick-access "
+"list."
+msgstr ""
+
+msgid ""
+"No managed WPCodeBox Functionality Plugin was detected. Independently "
+"exported plugins are not inventoried."
+msgstr ""
+
+msgid "No matching snippets."
+msgstr ""
+
+msgid "No snippets yet. Create your first snippet in WPCodeBox."
+msgstr ""
+
+msgid "No supported literal snippet includes were found."
+msgstr ""
+
+msgid "Normal view restored."
+msgstr ""
+
+msgid "Not active"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid ""
+"Only literal snippet includes in the main plugin file are listed. Assets and "
+"other resources are not separate execution entries."
+msgstr ""
+
+msgid ""
+"Open a favorite directly from its card. This preview follows your selection; "
+"save to update the toolbar."
+msgstr ""
+
+msgid "Open editor in Safe Mode"
+msgstr ""
+
+msgid "Open view"
+msgstr ""
+
+msgid "Operating status"
+msgstr ""
+
+msgid ""
+"Optional name for the WPCodeBox main menu. Leave blank to keep its original "
+"name. Applies when WPCodeBox has its own main menu; the Snippets submenu and "
+"personal toolbar name stay separate."
+msgstr ""
+
+msgid ""
+"Optional, for your account on this website. Reopen WPCodeBox in the last "
+"selected normal, fullscreen or editor-focus view. Snippet content and the "
+"native pane settings are not saved by QuickNav."
+msgstr ""
+
+msgid "Other types"
+msgstr ""
+
+msgid "Package download"
+msgstr ""
+
+msgid "Permission denied."
+msgstr ""
+
+msgid "Personal favorites"
+msgstr ""
+
+msgid ""
+"Personal name of the main toolbar entry on this website. Leave blank to "
+"restore WPCodeBox. The optional snippet count is appended automatically."
+msgstr ""
+
+msgid "Please select no more than 100 favorites."
+msgstr ""
+
+msgid "Plugin information"
+msgstr ""
+
+msgid "Plugin on GitHub"
+msgstr ""
+
+msgid "Plugin version"
+msgstr ""
+
+msgid "Plugin website"
+msgstr ""
+
+msgid ""
+"Press Escape or use Back to normal view to leave this view. Native editor "
+"controls remain available."
+msgstr ""
+
+msgid "Private mode must be boolean."
+msgstr ""
+
+msgid ""
+"Public catalog callbacks require both providers and cannot be used in "
+"private mode."
+msgstr ""
+
+msgid "QuickNav preferences"
+msgstr ""
+
+msgid "QuickNav settings"
+msgstr ""
+
+msgid ""
+"QuickNav updates are paused because another plugin loaded an older deckerweb "
+"Updater. Update that plugin to restore QuickNav updates."
+msgstr ""
+
+msgid "QuickNav views"
+msgstr ""
+
+msgid "QuickNav: Open settings"
+msgstr ""
+
+msgid ""
+"Reach your snippets through favorites, status lists and folders in the "
+"WordPress toolbar."
+msgstr ""
+
+msgid "Readable"
+msgstr ""
+
+msgid ""
+"Recheck files and capture available WPCodeBox 2 metadata. No plugin "
+"regeneration."
+msgstr ""
+
+msgid "Refresh information"
+msgstr ""
+
+msgid "Remember my last workspace view"
+msgstr ""
+
+msgid "Remove from favorites"
+msgstr ""
+
+msgid "Reset filters"
+msgstr ""
+
+msgid "Resource links"
+msgstr ""
+
+msgid "Run snippet"
+msgstr ""
+
+msgid "SCRIPT_DEBUG is on ⚠"
+msgstr ""
+
+msgid "SCSS partial"
+msgstr ""
+
+msgid "Safe Mode"
+msgstr ""
+
+msgid "Safe Mode active"
+msgstr ""
+
+msgid ""
+"Safe Mode is enabled by WPCB_SAFE_MODE. Generated snippet execution is "
+"paused, even if the constant is false."
+msgstr ""
+
+msgid "Safe Mode: execution paused"
+msgstr ""
+
+msgid "Save a local snippet before adding it to favorites."
+msgstr ""
+
+msgid "Save a local snippet before copying its link."
+msgstr ""
+
+msgid "Save my preferences"
+msgstr ""
+
+msgid "Save snippet"
+msgstr ""
+
+msgid "Save website settings"
+msgstr ""
+
+msgid "Saved favorites"
+msgstr ""
+
+msgid "Search all snippets"
+msgstr ""
+
+msgid ""
+"Search is unavailable. Try again or reload this page. The original snippet "
+"list remains available."
+msgstr ""
+
+msgid "Search snippets and files"
+msgstr ""
+
+msgid ""
+"Search titles and folder paths across all folders. Snippet contents are not "
+"searched."
+msgstr ""
+
+msgid "Searching…"
+msgstr ""
+
+msgid "See the release on GitHub."
+msgstr ""
+
+msgid ""
+"Select up to 100 snippets. Deleted snippets disappear from the list "
+"automatically. The limit above controls how many favorites appear in the "
+"toolbar."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Show QuickNav search in WPCodeBox"
+msgstr ""
+
+msgid "Show developer links"
+msgstr ""
+
+msgid "Show resource links in the toolbar"
+msgstr ""
+
+msgid "Show snippet count in the toolbar"
+msgstr ""
+
+msgid ""
+"Showing the first 50 matches. Refine your search for more precise results."
+msgstr ""
+
+msgid "Site Health Info"
+msgstr ""
+
+msgid "Snippet / file"
+msgstr ""
+
+msgid "Snippet count"
+msgstr ""
+
+msgid "Snippet error"
+msgstr ""
+
+msgid ""
+"Snippet execution is paused by WPCodeBox. QuickNav navigation and your "
+"preferences remain available."
+msgstr ""
+
+msgid "Snippet files"
+msgstr ""
+
+msgid "Snippet link copied."
+msgstr ""
+
+msgid "Snippet status"
+msgstr ""
+
+msgid "Snippet type"
+msgstr ""
+
+msgid "Snippet types"
+msgstr ""
+
+msgid "Snippets"
+msgstr ""
+
+msgid "Snippets Library by WPCode"
+msgstr ""
+
+msgid "Snippets Library by dPlugins"
+msgstr ""
+
+msgid "Snippets by Folder"
+msgstr ""
+
+msgid "Standalone operation"
+msgstr ""
+
+msgid "Support the project"
+msgstr ""
+
+msgid "System Dashboard"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid ""
+"The Functionality Plugin is active, but WPCB_SAFE_MODE pauses its generated "
+"snippet execution. Defining this constant also enables Safe Mode when its "
+"value is false."
+msgstr ""
+
+msgid ""
+"The GitHub package could not be prepared. The installed version has been "
+"kept."
+msgstr ""
+
+msgid "The GitHub package does not contain the WPCodeBox QuickNav plugin file."
+msgstr ""
+
+msgid "The approved release changed. Refresh updates first."
+msgstr ""
+
+msgid "The approved release could not be verified."
+msgstr ""
+
+msgid ""
+"The archive or plugin identity could not be verified. Installation was "
+"stopped."
+msgstr ""
+
+msgid "The favorite could not be saved. Please try again."
+msgstr ""
+
+msgid ""
+"The file exists and can be read. This does not confirm that its code ran "
+"successfully."
+msgstr ""
+
+msgid ""
+"The file is configured to load through the active Functionality Plugin. "
+"Conditions, hooks and Safe Mode still determine execution."
+msgstr ""
+
+msgid ""
+"The generated configuration has changed since the metadata snapshot. Saved "
+"titles may be outdated; filenames and inclusion states below are current."
+msgstr ""
+
+msgid ""
+"The generated plugin remains active independently. Activate supported "
+"WPCodeBox 2 to manage individual snippets; saved metadata remains available "
+"here."
+msgstr ""
+
+msgid ""
+"The load instruction is disabled, so this Functionality Plugin does not "
+"include the snippet file. The file is not deleted."
+msgstr ""
+
+msgid ""
+"The package does not match the approved checksum. Installation was stopped."
+msgstr ""
+
+msgid ""
+"The package identity or version does not match a newer WPCodeBox QuickNav "
+"release."
+msgstr ""
+
+msgid ""
+"The package version differs from the offered update. Please check for "
+"updates again."
+msgstr ""
+
+msgid "The plugin must be installed in a stable slug directory."
+msgstr ""
+
+msgid ""
+"The private update could not be authorized. Check the repository credentials "
+"and refresh updates."
+msgstr ""
+
+msgid "The private update download failed. Check credentials and try again."
+msgstr ""
+
+msgid "The secure connection to the update server failed."
+msgstr ""
+
+msgid "The update filesystem is unavailable. Please try again."
+msgstr ""
+
+msgid "The update package could not be checked."
+msgstr ""
+
+msgid "The update package has missing or invalid WordPress/PHP requirements."
+msgstr ""
+
+msgid "The update provider did not return valid update data."
+msgstr ""
+
+msgid "The update request timed out. Try again later."
+msgstr ""
+
+msgid "The update server address could not be resolved."
+msgstr ""
+
+msgid "The update server could not be reached. Try again later."
+msgstr ""
+
+msgid "The update server returned an unsuccessful HTTP response."
+msgstr ""
+
+msgid "The view changed, but could not be remembered. Please try again."
+msgstr ""
+
+msgid ""
+"These preferences apply only to your account on this website. Constants in "
+"wp-config.php take precedence over display preferences."
+msgstr ""
+
+msgid ""
+"These settings apply to all users of this website and are saved separately "
+"from personal preferences."
+msgstr ""
+
+msgid ""
+"This name is controlled by a configuration constant. Your saved personal "
+"name is retained."
+msgstr ""
+
+msgid ""
+"This overview reads the generated configuration. It does not prove that a "
+"snippet executed on this request. Hooks, conditions and Safe Mode can "
+"prevent execution."
+msgstr ""
+
+msgid ""
+"This release requires a newer WordPress or PHP version. The installed "
+"version has been kept."
+msgstr ""
+
+msgid ""
+"To pause all functions, deactivate the Functionality Plugin through "
+"WordPress plugin management. QuickNav does not edit or delete generated "
+"files."
+msgstr ""
+
+msgid "Toggle both side panes"
+msgstr ""
+
+msgid "Toggle line comment"
+msgstr ""
+
+msgid "Toggle snippet list"
+msgstr ""
+
+msgid "Toggle snippet settings"
+msgstr ""
+
+msgid "Toolbar entry name"
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+msgid "Type / folder"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Untitled snippet"
+msgstr ""
+
+msgid "Update stopped at %1$s: %2$s"
+msgstr ""
+
+msgid ""
+"Use Control + Alt + Shift plus the selected letter (Control + Option + Shift "
+"on Mac). Personal to this website. Choose Off if your system, keyboard "
+"layout or assistive software uses the combination."
+msgstr ""
+
+msgid "Variable Inspector"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "View all in WPCodeBox…"
+msgstr ""
+
+msgid "WP SnippetClub Archive"
+msgstr ""
+
+msgid "WP Snippets Library"
+msgstr ""
+
+msgid "WPCodeBin by WPCodeBox"
+msgstr ""
+
+msgid "WPCodeBox"
+msgstr ""
+
+msgid "WPCodeBox 2 and Functionality Plugin active"
+msgstr ""
+
+msgid ""
+"WPCodeBox 2 is available for managing snippets; the generated plugin is "
+"active in WordPress. Configured includes are listed below."
+msgstr ""
+
+msgid "WPCodeBox QuickNav requires PHP 8.3 or newer."
+msgstr ""
+
+msgid "WPCodeBox Safe Mode active 🔥"
+msgstr ""
+
+msgid "WPCodeBox Safe Mode is active."
+msgstr ""
+
+msgid "WPCodeBox and editor"
+msgstr ""
+
+msgid ""
+"WPCodeBox is installed but inactive or unavailable. Activate WPCodeBox 2 "
+"version 1.4.1 or newer to use snippet navigation. Display preferences remain "
+"available. QuickNav remains active and your saved preferences are kept."
+msgstr ""
+
+msgid ""
+"WPCodeBox is not installed yet. Install and activate WPCodeBox 2 version "
+"1.4.1 or newer to use snippet navigation. Display preferences remain "
+"available. QuickNav remains active and your saved preferences are kept."
+msgstr ""
+
+msgid "WPCodeBox management unavailable"
+msgstr ""
+
+msgid "WPCodeBox resources"
+msgstr ""
+
+msgid "WPCodeBox support"
+msgstr ""
+
+msgid "WPCodeBox website"
+msgstr ""
+
+msgid "WPCodeBox workspace views"
+msgstr ""
+
+msgid "WPCodeBox: Add new snippet"
+msgstr ""
+
+msgid "WPCodeBox: Open favorite — %s"
+msgstr ""
+
+msgid "WPCodeBox: Open snippet manager"
+msgstr ""
+
+msgid "WPCodeBox: Search all snippets"
+msgstr ""
+
+msgid "Website functions at a glance."
+msgstr ""
+
+msgid "Website scope"
+msgstr ""
+
+msgid "Website settings"
+msgstr ""
+
+msgid "What do the other states mean?"
+msgstr ""
+
+msgid ""
+"WordPress does not load the configured includes through this plugin. This "
+"status does not describe code provided by other plugins."
+msgstr ""
+
+msgid "Workspace fullscreen"
+msgstr ""
+
+msgid "Workspace keyboard shortcuts"
+msgstr ""
+
+msgid "Your favorites"
+msgstr ""
+
+msgid "Your settings have been saved."
+msgstr ""
+
+msgid "Your snippet overview"
+msgstr ""
+
+msgid "Your snippets. One click away."
+msgstr ""
+
+msgid "active"
+msgstr ""
+
+msgid "administration"
+msgstr ""
+
+msgid "everywhere"
+msgstr ""
+
+msgid "front-end"
+msgstr ""
+
+msgid "inactive"
+msgstr ""
+
+msgid "shortcode"
+msgstr ""
+
+msgid "★ Favorites"
+msgstr ""
+
+msgid "Invalid package cleanup provider."
+msgstr ""
+
+msgid "Invalid private download limits."
+msgstr ""
+
+msgid "Safe package cleanup is unavailable for this update provider."
+msgstr ""
+
+msgid "The update package identity, version or requirements could not be verified."
+msgstr ""
+
+msgid "%1$s of %2$s plugins"
+msgstr ""
+
+msgid "%s is installed but inactive. Activate it first."
+msgstr ""
+
+msgid "%s is missing. Install and activate it first."
+msgstr ""
+
+msgid "%s must be network activated first."
+msgstr ""
+
+msgid "%s supports activation per site only."
+msgstr ""
+
+msgid "Action cancelled."
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Activate Bricks QuickNav per site after selecting the Bricks parent or child theme."
+msgstr ""
+
+msgid "Activating…"
+msgstr ""
+
+msgid "Active filters: "
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+msgid "Affected features remain paused until their requirements are met."
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Already active"
+msgstr ""
+
+msgid "Already up to date."
+msgstr ""
+
+msgid "Another action for this plugin is running. Please wait."
+msgstr ""
+
+msgid "Another component interrupted the request. If Git Updater is active, temporarily deactivate it and retry."
+msgstr ""
+
+msgid "Another updater provides a different release. Refresh updates before continuing."
+msgstr ""
+
+msgid "Apr"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "Archive contains too many files."
+msgstr ""
+
+msgid "Archive symlinks are not permitted."
+msgstr ""
+
+msgid "As of "
+msgstr ""
+
+msgid "Aug"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "Back to deckerweb"
+msgstr ""
+
+msgid "Builder"
+msgstr ""
+
+msgid "Bundled catalog"
+msgstr ""
+
+msgid "Cached or bundled catalog"
+msgstr ""
+
+msgid "Cannot create temporary file."
+msgstr ""
+
+msgid "Cannot create verified archive."
+msgstr ""
+
+msgid "Cannot finalize archive."
+msgstr ""
+
+msgid "Cannot normalize archive."
+msgstr ""
+
+msgid "Cannot read archive entry."
+msgstr ""
+
+msgid "Catalog URL"
+msgstr ""
+
+msgid "Catalog refreshed."
+msgstr ""
+
+msgid "Catalog retrieval does not limit updates of installed plugins. Those use their normal WordPress update provider."
+msgstr ""
+
+msgid "Catalog verification"
+msgstr ""
+
+msgid "Check status"
+msgstr ""
+
+msgid "Checking status…"
+msgstr ""
+
+msgid "Commerce"
+msgstr ""
+
+msgid "Compatible additions only"
+msgstr ""
+
+msgid "Connection failed. Please try again later."
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Copied."
+msgstr ""
+
+msgid "Copy diagnostic information"
+msgstr ""
+
+msgid "Dec"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Delete Library settings when removing the last host plugin"
+msgstr ""
+
+msgid "Details & requirements"
+msgstr ""
+
+msgid "Discover more plugins by deckerweb"
+msgstr ""
+
+msgid "Discover randomly"
+msgstr ""
+
+msgid "Dismiss permanently"
+msgstr ""
+
+msgid "Done. The plugin is active."
+msgstr ""
+
+msgid "Enter a catalog URL first."
+msgstr ""
+
+msgid "Expanded archive is too large."
+msgstr ""
+
+msgid "F j, Y"
+msgstr ""
+
+msgid "Feb"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "Filesystem credentials are required."
+msgstr ""
+
+msgid "Filesystem credentials are required. Use the catalog with JavaScript enabled or the native Plugins screen."
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Fits my installation"
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "GitHub Stars"
+msgstr ""
+
+msgid "Hide catalog"
+msgstr ""
+
+msgid "Improved"
+msgstr ""
+
+msgid "Install and activate this plugin in the network admin."
+msgstr ""
+
+msgid "Install deckerweb plugin"
+msgstr ""
+
+msgid "Install now"
+msgstr ""
+
+msgid "Installation cancelled."
+msgstr ""
+
+msgid "Installation failed."
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installed plugin identity does not match the approved release."
+msgstr ""
+
+msgid "Installed plugins use their normal update provider. Reload the update information and try again."
+msgstr ""
+
+msgid "Installed · inactive"
+msgstr ""
+
+msgid "Installed: "
+msgstr ""
+
+msgid "Installing…"
+msgstr ""
+
+msgid "Invalid ZIP archive."
+msgstr ""
+
+msgid "Invalid approval flag."
+msgstr ""
+
+msgid "Invalid catalog field: "
+msgstr ""
+
+msgid "Invalid catalog revision."
+msgstr ""
+
+msgid "Invalid catalog schema."
+msgstr ""
+
+msgid "Invalid catalog timestamp."
+msgstr ""
+
+msgid "Invalid dependencies."
+msgstr ""
+
+msgid "Invalid dependency URL."
+msgstr ""
+
+msgid "Invalid dependency metadata."
+msgstr ""
+
+msgid "Invalid display field."
+msgstr ""
+
+msgid "Invalid icon color."
+msgstr ""
+
+msgid "Invalid icon label."
+msgstr ""
+
+msgid "Invalid identity or release metadata."
+msgstr ""
+
+msgid "Invalid local icon."
+msgstr ""
+
+msgid "Invalid network policy."
+msgstr ""
+
+msgid "Invalid network requirement."
+msgstr ""
+
+msgid "Invalid platform version."
+msgstr ""
+
+msgid "Invalid plugin series."
+msgstr ""
+
+msgid "Invalid sort order."
+msgstr ""
+
+msgid "Invalid star count."
+msgstr ""
+
+msgid "Invalid stars date."
+msgstr ""
+
+msgid "Invalid status filter."
+msgstr ""
+
+msgid "Jan"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "Jul"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "Jun"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "Last successful check: "
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "Library changelog"
+msgstr ""
+
+msgid "Library settings"
+msgstr ""
+
+msgid "Library settings saved."
+msgstr ""
+
+msgid "Manage Content"
+msgstr ""
+
+msgid "Mar"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Missing display text."
+msgstr ""
+
+msgid "Missing plugin header."
+msgstr ""
+
+msgid "Mon"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "More by deckerweb"
+msgstr ""
+
+msgid "Multisite"
+msgstr ""
+
+msgid "Name A–Z"
+msgstr ""
+
+msgid "Name Z–A"
+msgstr ""
+
+msgid "Network activate"
+msgstr ""
+
+msgid "Network active"
+msgstr ""
+
+msgid "Network permission denied."
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "No approved plugins match this selection."
+msgstr ""
+
+msgid "No update reported."
+msgstr ""
+
+msgid "Not installed"
+msgstr ""
+
+msgid "Not installed. You can try again."
+msgstr ""
+
+msgid "Nov"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "Oct"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "Off by default. Applies only when no other host is installed, including inactive hosts. Removes Library settings, installation records and introduction status. Installed plugins, their content and other plugin settings remain unchanged. Network data is shared across sites."
+msgstr ""
+
+msgid "Online catalog"
+msgstr ""
+
+msgid "Only HTTPS on raw.githubusercontent.com/deckerweb. The server receives the requesting IP address. GitHub is contacted when installing a release."
+msgstr ""
+
+msgid "Only approved releases"
+msgstr ""
+
+msgid "Open catalog"
+msgstr ""
+
+msgid "Optional. The bundled catalog works immediately. Catalog requests are cached for 24 hours. No site URL, plugin list or usage data is sent."
+msgstr ""
+
+msgid "PHP ZIP support is required."
+msgstr ""
+
+msgid "POST required."
+msgstr ""
+
+msgid "Permission denied. Reload the page and check your permissions."
+msgstr ""
+
+msgid "Planned: "
+msgstr ""
+
+msgid "Plugin identity or version does not match the catalog."
+msgstr ""
+
+msgid "Plugin is not installed."
+msgstr ""
+
+msgid "Plugin series"
+msgstr ""
+
+msgid "Plugin status"
+msgstr ""
+
+msgid "Product website"
+msgstr ""
+
+msgid "Recently updated"
+msgstr ""
+
+msgid "Refresh catalog"
+msgstr ""
+
+msgid "Release 1.0.0 is being prepared. Installation will be available after package verification."
+msgstr ""
+
+msgid "Release checksum is verified before installation. Activation is a separate step."
+msgstr ""
+
+msgid "Release in preparation"
+msgstr ""
+
+msgid "Release must contain exactly the approved plugin directory."
+msgstr ""
+
+msgid "Remove filter: "
+msgstr ""
+
+msgid "Repository & documentation"
+msgstr ""
+
+msgid "Requirements shown are preliminary until the stable release is verified."
+msgstr ""
+
+msgid "Requires PHP %s or newer."
+msgstr ""
+
+msgid "Requires WordPress %s or newer."
+msgstr ""
+
+msgid "Requires a WordPress Multisite network."
+msgstr ""
+
+msgid "Reset view"
+msgstr ""
+
+msgid "Retrieve approved catalog updates online"
+msgstr ""
+
+msgid "Sat"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Save settings"
+msgstr ""
+
+msgid "Scripts"
+msgstr ""
+
+msgid "Search this catalog"
+msgstr ""
+
+msgid "Select and copy the text."
+msgstr ""
+
+msgid "Selected by deckerweb · Installed from GitHub releases"
+msgstr ""
+
+msgid "Sep"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Shop"
+msgstr ""
+
+msgid "Show deckerweb under Add Plugins"
+msgstr ""
+
+msgid "Shows plugins whose platform and dependency requirements are met in this site or network. Without this filter, plugins with missing requirements remain visible."
+msgstr ""
+
+msgid "Shuffle again"
+msgstr ""
+
+msgid "Small plugins. Practical improvements."
+msgstr ""
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Source: GitHub"
+msgstr ""
+
+msgid "Stage: %1$s. %2$s"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Technical information"
+msgstr ""
+
+msgid "The GitHub release could not be downloaded."
+msgstr ""
+
+msgid "The action is still running. Check its status again."
+msgstr ""
+
+msgid "The approved package could not be verified."
+msgstr ""
+
+msgid "The catalog URL is not an allowed first-party HTTPS endpoint."
+msgstr ""
+
+msgid "The catalog could not be verified. Please try again later."
+msgstr ""
+
+msgid "The catalog is disabled."
+msgstr ""
+
+msgid "The catalog is hidden."
+msgstr ""
+
+msgid "The catalog response is invalid, incompatible or too large."
+msgstr ""
+
+msgid "The connection timed out. Please try again later."
+msgstr ""
+
+msgid "The deckerweb catalog could not load. Check platform requirements and the complete Library integration in the host plugin."
+msgstr ""
+
+msgid "The installed plugin identity could not be verified for this catalog update."
+msgstr ""
+
+msgid "The installed plugin identity could not be verified. Use the Plugins screen to review it."
+msgstr ""
+
+msgid "The online catalog is unavailable. Showing cached or bundled entries; online approval is checked again before installation."
+msgstr ""
+
+msgid "The online catalog source is not trusted."
+msgstr ""
+
+msgid "The package checksum does not match the approved release. Installation was stopped."
+msgstr ""
+
+msgid "The package did not pass the archive or plugin identity checks. Installation was stopped."
+msgstr ""
+
+msgid "The release checksum does not match. Installation stopped."
+msgstr ""
+
+msgid "The request could not be completed. Check the plugin status before trying again."
+msgstr ""
+
+msgid "The requirements below describe the catalog version for first installation, not an installed-plugin update."
+msgstr ""
+
+msgid "The requirements below describe the offered release."
+msgstr ""
+
+msgid "The secure connection could not be verified."
+msgstr ""
+
+msgid "The server address could not be resolved."
+msgstr ""
+
+msgid "The server returned HTTP %d. Please try again later."
+msgstr ""
+
+msgid "The update has not been confirmed. You can try again."
+msgstr ""
+
+msgid "These details contain component versions and catalog status, without credentials or site content."
+msgstr ""
+
+msgid "This catalog requires a newer Library."
+msgstr ""
+
+msgid "This plugin directory already exists. Use the installed plugin; it will not be overwritten."
+msgstr ""
+
+msgid "This release is no longer approved."
+msgstr ""
+
+msgid "This release is not approved."
+msgstr ""
+
+msgid "Thu"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Unsafe archive path."
+msgstr ""
+
+msgid "Untrusted release URL."
+msgstr ""
+
+msgid "Update %1$s to version %2$s or newer."
+msgstr ""
+
+msgid "Update available"
+msgstr ""
+
+msgid "Update available: %s"
+msgstr ""
+
+msgid "Update failed."
+msgstr ""
+
+msgid "Update information changed. Reload the page and try again."
+msgstr ""
+
+msgid "Update to %s"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "Updating…"
+msgstr ""
+
+msgid "Use the Plugins screen to manage this installed plugin."
+msgstr ""
+
+msgid "Verified first installations · Independent plugin updates"
+msgstr ""
+
+msgid "View plugins"
+msgstr ""
+
+msgid "Visibility"
+msgstr ""
+
+msgid "Wed"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "WordPress"
+msgstr ""
+
+msgid "You already use one of my plugins. Find selected additions in the deckerweb tab."
+msgstr ""

@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: WPCodeBox QuickNav
- * Plugin URI: https://deckerwebplugins.com/
+ * Plugin URI: https://deckerwebplugins.com/en/plugins/wpcodebox-quicknav/
  * Description: Reach WPCodeBox snippets through personal favorites, status lists, folders and search in the WordPress toolbar.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires at least: 6.9
  * Requires PHP: 8.3
  * Author: David Decker – DECKERWEB

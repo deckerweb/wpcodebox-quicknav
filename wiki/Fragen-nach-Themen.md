@@ -1,6 +1,6 @@
 # Fragen nach Themen
 
-[English](https://github.com/deckerweb/wpcodebox-quicknav/wiki/FAQ-by-topic)
+[English](FAQ-by-topic)
 
 ## Welche WPCodeBox-Version wird unterstützt?
 
@@ -30,4 +30,4 @@ Nein. QuickNav liest die Konfiguration und führt dafür keine Plugin-Datei aus.
 
 Diese Angaben gehören zur QuickNav-Übersicht des von WPCodeBox erzeugten Functionality-Plugins. Sie zeigen die Konfiguration, nicht die tatsächlich ausgeführten Snippets. „Plugin aktiv“ bedeutet: Das Functionality-Plugin ist in WordPress aktiviert. „Einbindung freigegeben“ bedeutet: Das Snippet ist in der erzeugten Hauptdatei zum Laden vorgesehen; sein Ladeeintrag ist nicht auskommentiert. Ob der Snippet-Code tatsächlich ausgeführt wird, hängt zusätzlich zum Beispiel von Bedingungen, Hooks und dem abgesicherten Modus (Safe Mode) ab. Auch Fehler können die Ausführung verhindern. Beispiel: Ein Snippet, das nur im Frontend laufen soll, muss bei einem Aufruf im Admin nicht ausgeführt werden, obwohl seine Einbindung freigegeben ist. QuickNav zeichnet keine tatsächlichen Ausführungen auf.
 
-[Anleitung mit weiteren Einzelheiten](https://github.com/deckerweb/wpcodebox-quicknav/wiki/Anleitung)
+[Anleitung mit weiteren Einzelheiten](Anleitung)

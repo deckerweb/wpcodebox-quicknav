@@ -4,7 +4,7 @@
 defined( 'ABSPATH' ) || exit;
 /** Resolve permissions and site-scoped personal display preferences. */
 final class WCBQN_Config {
-	public const VERSION = '1.0.0';
+	public const VERSION = '1.0.1';
 
 	/**
 	 * Build the current-site user-metadata key.

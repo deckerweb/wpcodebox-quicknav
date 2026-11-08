@@ -1,6 +1,6 @@
 # User guide
 
-[Deutsch](https://github.com/deckerweb/wpcodebox-quicknav/wiki/Anleitung)
+[Deutsch](Anleitung)
 
 ## Favorites and display preferences
 

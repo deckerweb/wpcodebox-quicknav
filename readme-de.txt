@@ -3,7 +3,7 @@ Contributors: daveshine
 Tags: toolbar, snippets, wpcodebox, quicknav
 Requires at least: 6.9
 Requires PHP: 8.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Tested up to: 7.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -19,7 +19,7 @@ WPCodeBox QuickNav ist ein unabhängiges Add-on von David Decker – DECKERWEB f
 * Toolbar und Menü: Direktzugriff auf Favoriten, aktive und inaktive Snippets, Ordner, Einstellungen und den Functionality-Plugin-Status. Das erste Untermenü von WPCodeBox heißt „Snippets“. QuickNav-Einstellungen und Functionality-Plugin-Übersicht liegen darunter; ohne WPCodeBox-Hauptmenü unter WordPress-Einstellungen. Der Name des Toolbar-Haupteintrags ist persönlich pro Website einstellbar. Der Admin-Hauptmenüname ist optional für die Website einstellbar. Typ und gespeicherter Status haben eigene lesbare Labels in der Toolbar.
 * Vollbild und Editor-Fokus: „Arbeitsbereich im Vollbild“ blendet WordPress-Menü und Toolbar aus. „Editor-Fokus“ blendet zusätzlich die Snippet-Liste, die Snippet-Einstellungen und die QuickNav-Suche aus. Die native Speicherleiste bleibt sichtbar. Zurück-Schalter und Escape beenden die Ansicht, ohne den Editor neu zu laden. Titel und Typ des geöffneten Snippets bleiben oben sichtbar. Ein Stern speichert das lokale Snippet direkt als persönlichen Favoriten. Vollbild und Editor-Fokus lassen sich mit persönlichen Tastenkürzeln umschalten. Eine kompakte Hilfe im Editor zeigt QuickNav- und native Kürzel. Optional wird die letzte Ansicht persönlich pro Website gemerkt. Die Hilfe bietet direkte Ansichtsaktionen; gespeicherte lokale Snippets erhalten einen kopierbaren Editor-Link. Die Bereiche passen sich an die verbleibende Fensterhöhe an.
 * Functionality-Plugin-Übersicht: Die eigenständige Übersicht zeigt erkannte verwaltete Plugins mit echtem WordPress-Aktivierungsstatus, konfigurierten Snippet-Einbindungen und Dateistatus. Bei verfügbarem WPCodeBox werden Titel, Typ und Ordner zugeordnet und datiert gespeichert. Bei deaktiviertem WPCodeBox bleiben Dateiliste und gespeicherte Zusatzinformationen erreichbar. Betriebsstatus und Zähler fassen die Lage zusammen. Suche und Filter grenzen die Liste ein; fehlende Dateien stehen zuerst. Dateipfade lassen sich kopieren und Informationen gezielt aktualisieren.
-* Befehle, abgesicherter Modus und Ressourcen: Die native WordPress-Befehlspalette erhält dort, wo sie verfügbar ist, QuickNav-Verknüpfungen. Die Toolbar bietet den WPCodeBox-Safe-Mode-Zugang, optionale Ressourcen und passende Entwicklerwerkzeuge. Library 1.2.0 und Updater 2.3.0 sind enthalten. Ein eigenständiger roter Warnstreifen mit Flamme rechts bleibt bei aktivem Safe Mode sichtbar, auch im Frontend.
+* Befehle, abgesicherter Modus und Ressourcen: Die native WordPress-Befehlspalette erhält dort, wo sie verfügbar ist, QuickNav-Verknüpfungen. Die Toolbar bietet den WPCodeBox-Safe-Mode-Zugang, optionale Ressourcen und passende Entwicklerwerkzeuge. Library 1.3.0 und Updater 2.4.0 sind enthalten. Ein eigenständiger roter Warnstreifen mit Flamme rechts bleibt bei aktivem Safe Mode sichtbar, auch im Frontend.
 
 == Installation ==
 
@@ -49,6 +49,9 @@ Nein. QuickNav liest die Konfiguration und führt dafür keine Plugin-Datei aus.
 Diese Angaben gehören zur QuickNav-Übersicht des von WPCodeBox erzeugten Functionality-Plugins. Sie zeigen die Konfiguration, nicht die tatsächlich ausgeführten Snippets. „Plugin aktiv“ bedeutet: Das Functionality-Plugin ist in WordPress aktiviert. „Einbindung freigegeben“ bedeutet: Das Snippet ist in der erzeugten Hauptdatei zum Laden vorgesehen; sein Ladeeintrag ist nicht auskommentiert. Ob der Snippet-Code tatsächlich ausgeführt wird, hängt zusätzlich zum Beispiel von Bedingungen, Hooks und dem abgesicherten Modus (Safe Mode) ab. Auch Fehler können die Ausführung verhindern. Beispiel: Ein Snippet, das nur im Frontend laufen soll, muss bei einem Aufruf im Admin nicht ausgeführt werden, obwohl seine Einbindung freigegeben ist. QuickNav zeichnet keine tatsächlichen Ausführungen auf.
 
 == Changelog ==
+
+= 1.0.1 · 2026-11-09 =
+* Behoben: deckerweb Library auf 1.3.0 und Updater auf 2.4.0 aktualisiert: normale Updates unabhängig vom Katalog, begrenzte Downloads und strengere Paketprüfung.
 
 = 1.0.0 =
 
